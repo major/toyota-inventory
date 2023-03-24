@@ -99,10 +99,6 @@ GRAPHQL_QUERY = """query {
 """
 
 
-def pretty_currency(x):
-    return "${:.1f}K".format(x / 1000)
-
-
 def query_toyota(page_number):
     """Query Toyota for a page of vehicles."""
     print(f"Getting page {page_number}")
@@ -144,8 +140,6 @@ def filter_columns(df):
     df["Model"] = df["Model"].str.replace("4Runner ", "")
     df["Model"] = df["Model"].str.replace("40th Anniversary Special Edition", "40th")
     df["Color"] = df["Color"].str.replace(" [extra_cost_color]", "", regex=False)
-
-    df["MSRP"] = df["MSRP"].apply(pretty_currency)
 
     df["Dealer"] = "[" + df["dealerMarketingName"] + "](" + df["dealerWebsite"] + ")"
 
