@@ -30,6 +30,8 @@ jobs:
 
       - name: Run script
         run: ./get_cars.py
+        env:
+          PYTHONUNBUFFERED: 1
 
       - name: Join markdown files
         run: |
