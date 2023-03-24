@@ -148,6 +148,11 @@ def filter_columns(df):
     df["MSRP"] = df["MSRP"].apply(pretty_currency)
 
     df["Dealer"] = "[" + df["dealerMarketingName"] + "](" + df["dealerWebsite"] + ")"
+
+    df["VIN"] = (
+        "[" + df["VIN"] + "](https://toyota-tracker.com/lookup/" + df["VIN"] + ")"
+    )
+
     df.drop(columns=["dealerMarketingName", "dealerWebsite"], inplace=True)
     return df
 
