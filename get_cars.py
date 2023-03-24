@@ -189,3 +189,4 @@ df = df.sort_values(["Model", "MSRP"], ascending=[True, True])
 # Write to the markdown file.
 df.info()
 df.to_markdown("vehicles.md", index=False)
+df.to_json("vehicles.json", orient="records")
