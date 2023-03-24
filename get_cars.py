@@ -13,7 +13,7 @@ GRAPHQL_QUERY = """query {
     pageNo: %d
     pageSize: 250
     seriesCodes: "4runner"
-    distance: 50
+    distance: 20000
     leadid: "c1a95bb1-0f55-42f9-994a-ba958fdefba4"
   ) {
     pagination {
