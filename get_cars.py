@@ -140,14 +140,6 @@ def filter_columns(df):
     df["Model"] = df["Model"].str.replace("4Runner ", "")
     df["Model"] = df["Model"].str.replace("40th Anniversary Special Edition", "40th")
     df["Color"] = df["Color"].str.replace(" [extra_cost_color]", "", regex=False)
-
-    df["Dealer"] = "[" + df["dealerMarketingName"] + "](" + df["dealerWebsite"] + ")"
-
-    df["VIN"] = (
-        "[" + df["VIN"] + "](https://toyota-tracker.com/lookup/" + df["VIN"] + ")"
-    )
-
-    df.drop(columns=["dealerMarketingName", "dealerWebsite"], inplace=True)
     return df
 
 
@@ -160,7 +152,6 @@ def make_view(df):
             "model.marketingName",
             "extColor.marketingName",
             "dealerMarketingName",
-            "dealerWebsite",
         ]
     ].copy()
     return df.rename(
@@ -169,6 +160,7 @@ def make_view(df):
             "price.totalMsrp": "MSRP",
             "model.marketingName": "Model",
             "extColor.marketingName": "Color",
+            "dealerMarketingName": "Dealer",
         }
     )
 
