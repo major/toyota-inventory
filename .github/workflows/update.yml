@@ -34,7 +34,6 @@ jobs:
       - name: Join markdown files
         run: |
           cp partial.md index.md
-          echo "\n\n" >> index.md
           cat vehicles.md >> index.md
           cat index.md
 
