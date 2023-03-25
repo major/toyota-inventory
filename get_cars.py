@@ -8,13 +8,13 @@ import requests
 
 GRAPHQL_QUERY = """query {
   locateVehiclesByZip(
-    zipCode: "78108"
+    zipCode: "78729"
     brand: "TOYOTA"
     pageNo: %d
     pageSize: 250
     seriesCodes: "4runner"
-    distance: 50
-    leadid: "c1a95bb1-0f55-42f9-994a-ba958fdefba4"
+    distance: 20000
+    leadid: "c1a95bb2-0f55-42f9-994a-ba958fdefba4"
   ) {
     pagination {
       pageNo
@@ -141,7 +141,7 @@ def filter_columns(df):
     df["Model"] = df["Model"].str.replace("40th Anniversary Special Edition", "40th")
     df["Color"] = df["Color"].str.replace(" [extra_cost_color]", "", regex=False)
     df["MSRP"] = df["MSRP"] + df["DIO"]
-    df.drop(columns="DIO")
+    return df.drop(columns=["DIO"])
     return df
 
 
