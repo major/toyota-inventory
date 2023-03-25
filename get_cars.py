@@ -184,4 +184,4 @@ df.to_markdown("vehicles.md", index=False)
 
 # Write JSON files, too.
 df.to_json("vehicles.json", orient="records", indent=2)
-df.to_json("vehicles.json", orient="records", indent=2).to_json("vehicles_raw.json", orient="records", indent=2)
+raw_df.to_json("vehicles_raw.json", orient="records", indent=2)
