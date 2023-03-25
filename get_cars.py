@@ -13,7 +13,7 @@ GRAPHQL_QUERY = """query {
     pageNo: %d
     pageSize: 250
     seriesCodes: "4runner"
-    distance: 20000
+    distance: 50
     leadid: "c1a95bb1-0f55-42f9-994a-ba958fdefba4"
   ) {
     pagination {
@@ -140,6 +140,8 @@ def filter_columns(df):
     df["Model"] = df["Model"].str.replace("4Runner ", "")
     df["Model"] = df["Model"].str.replace("40th Anniversary Special Edition", "40th")
     df["Color"] = df["Color"].str.replace(" [extra_cost_color]", "", regex=False)
+    df["MSRP"] = df["MSRP"] + df["DIO"]
+    df.drop(columns="DIO")
     return df
 
 
@@ -152,12 +154,14 @@ def make_view(df):
             "model.marketingName",
             "extColor.marketingName",
             "dealerMarketingName",
+            "price.dioTotalDealerSellingPrice"
         ]
     ].copy()
     return df.rename(
         columns={
             "vin": "VIN",
             "price.totalMsrp": "MSRP",
+            "price.dioTotalDealerSellingPrice": "DIO"
             "model.marketingName": "Model",
             "extColor.marketingName": "Color",
             "dealerMarketingName": "Dealer",
