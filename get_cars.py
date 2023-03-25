@@ -161,7 +161,7 @@ def make_view(df):
         columns={
             "vin": "VIN",
             "price.totalMsrp": "MSRP",
-            "price.dioTotalDealerSellingPrice": "DIO"
+            "price.dioTotalDealerSellingPrice": "DIO",
             "model.marketingName": "Model",
             "extColor.marketingName": "Color",
             "dealerMarketingName": "Dealer",
