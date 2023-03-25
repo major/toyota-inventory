@@ -2499,17 +2499,17 @@
     "Dealer":"McDonald Toyota"
   },
   {
-    "VIN":"JTEKU5JR8P6133440",
-    "MSRP":51654.0,
-    "Model":"Limited",
-    "Color":"Magnetic Gray Metallic",
-    "Dealer":"Pedersen Toyota, Ltd."
-  },
-  {
     "VIN":"JTEKU5JR7P6131940",
     "MSRP":51654.0,
     "Model":"Limited",
     "Color":"Nautical Blue Metallic",
+    "Dealer":"Pedersen Toyota, Ltd."
+  },
+  {
+    "VIN":"JTEKU5JR8P6133440",
+    "MSRP":51654.0,
+    "Model":"Limited",
+    "Color":"Magnetic Gray Metallic",
     "Dealer":"Pedersen Toyota, Ltd."
   },
   {
@@ -3668,17 +3668,17 @@
     "Dealer":"Corwin Toyota of Bellevue"
   },
   {
-    "VIN":"JTEKU5JRXP6138610",
-    "MSRP":52262.0,
-    "Model":"Limited",
-    "Color":"Midnight Black Metallic",
-    "Dealer":"Larry H. Miller American Toyota Albuquerque"
-  },
-  {
     "VIN":"JTEKU5JR0P6141905",
     "MSRP":52262.0,
     "Model":"Limited",
     "Color":"Magnetic Gray Metallic",
+    "Dealer":"Larry H. Miller American Toyota Albuquerque"
+  },
+  {
+    "VIN":"JTEKU5JRXP6138610",
+    "MSRP":52262.0,
+    "Model":"Limited",
+    "Color":"Midnight Black Metallic",
     "Dealer":"Larry H. Miller American Toyota Albuquerque"
   },
   {
@@ -4102,17 +4102,17 @@
     "Dealer":"Toyota of Bozeman"
   },
   {
-    "VIN":"JTEKU5JR7P6140069",
-    "MSRP":52518.0,
-    "Model":"Limited",
-    "Color":"Barcelona Red Metallic",
-    "Dealer":"Nashville Toyota North"
-  },
-  {
     "VIN":"JTEKU5JR4P6139624",
     "MSRP":52518.0,
     "Model":"Limited",
     "Color":"Magnetic Gray Metallic",
+    "Dealer":"Nashville Toyota North"
+  },
+  {
+    "VIN":"JTEKU5JR7P6140069",
+    "MSRP":52518.0,
+    "Model":"Limited",
+    "Color":"Barcelona Red Metallic",
     "Dealer":"Nashville Toyota North"
   },
   {
@@ -4921,14 +4921,14 @@
     "Dealer":"Metro Toyota"
   },
   {
-    "VIN":"JTEKU5JR3P6141199",
+    "VIN":"JTEKU5JR9P6135701",
     "MSRP":52963.0,
     "Model":"Limited",
     "Color":"Midnight Black Metallic",
     "Dealer":"Toyota of Bowie"
   },
   {
-    "VIN":"JTEKU5JR9P6135701",
+    "VIN":"JTEKU5JR3P6141199",
     "MSRP":52963.0,
     "Model":"Limited",
     "Color":"Midnight Black Metallic",
@@ -5094,13 +5094,6 @@
     "Model":"Limited",
     "Color":"Magnetic Gray Metallic",
     "Dealer":"Town Toyota"
-  },
-  {
-    "VIN":"JTEKU5JR5P6134464",
-    "MSRP":53019.0,
-    "Model":"Limited",
-    "Color":"Midnight Black Metallic",
-    "Dealer":"Toyota of Lake City"
   },
   {
     "VIN":"JTEKU5JR4P6128932",
@@ -6230,14 +6223,14 @@
     "Dealer":"Pohanka Toyota of Salisbury"
   },
   {
-    "VIN":"JTEKU5JR8P6138539",
+    "VIN":"JTEKU5JRXP6140020",
     "MSRP":53597.0,
     "Model":"Limited",
     "Color":"Blizzard Pearl",
     "Dealer":"Hertrich Toyota"
   },
   {
-    "VIN":"JTEKU5JRXP6140020",
+    "VIN":"JTEKU5JR8P6138539",
     "MSRP":53597.0,
     "Model":"Limited",
     "Color":"Blizzard Pearl",
@@ -8666,13 +8659,6 @@
     "Dealer":"Ventura Toyota"
   },
   {
-    "VIN":"JTEKU5JR1P6138222",
-    "MSRP":55568.0,
-    "Model":"Limited",
-    "Color":"Blizzard Pearl",
-    "Dealer":"Berge Toyota"
-  },
-  {
     "VIN":"JTEKU5JR2P6131277",
     "MSRP":55587.0,
     "Model":"Limited",
@@ -8972,6 +8958,13 @@
     "Model":"Limited",
     "Color":"Blizzard Pearl",
     "Dealer":"Toyota of Renton"
+  },
+  {
+    "VIN":"JTEKU5JR1P6138222",
+    "MSRP":58063.0,
+    "Model":"Limited",
+    "Color":"Blizzard Pearl",
+    "Dealer":"Berge Toyota"
   },
   {
     "VIN":"JTEKU5JR7P6139133",
@@ -11060,17 +11053,17 @@
     "Dealer":"Mountain States Toyota"
   },
   {
-    "VIN":"JTEMU5JR2P6136570",
-    "MSRP":44344.0,
-    "Model":"SR5",
-    "Color":"Midnight Black Metallic",
-    "Dealer":"Mountain States Toyota"
-  },
-  {
     "VIN":"JTEMU5JR3P6136772",
     "MSRP":44344.0,
     "Model":"SR5",
     "Color":"Magnetic Gray Metallic",
+    "Dealer":"Mountain States Toyota"
+  },
+  {
+    "VIN":"JTEMU5JR2P6136570",
+    "MSRP":44344.0,
+    "Model":"SR5",
+    "Color":"Midnight Black Metallic",
     "Dealer":"Mountain States Toyota"
   },
   {
@@ -11095,17 +11088,17 @@
     "Dealer":"Mountain States Toyota"
   },
   {
-    "VIN":"JTEMU5JR8P6138971",
-    "MSRP":44344.0,
-    "Model":"SR5",
-    "Color":"Midnight Black Metallic",
-    "Dealer":"Corwin Toyota Boulder"
-  },
-  {
     "VIN":"JTEMU5JR5P6138796",
     "MSRP":44344.0,
     "Model":"SR5",
     "Color":"Classic Silver Metallic",
+    "Dealer":"Corwin Toyota Boulder"
+  },
+  {
+    "VIN":"JTEMU5JR8P6138971",
+    "MSRP":44344.0,
+    "Model":"SR5",
+    "Color":"Midnight Black Metallic",
     "Dealer":"Corwin Toyota Boulder"
   },
   {
@@ -11851,17 +11844,17 @@
     "Dealer":"Toyota of Colorado Springs"
   },
   {
-    "VIN":"JTEMU5JR9P6140471",
-    "MSRP":45149.0,
-    "Model":"SR5",
-    "Color":"Classic Silver Metallic",
-    "Dealer":"Mountain States Toyota"
-  },
-  {
     "VIN":"JTEMU5JR3P6139896",
     "MSRP":45149.0,
     "Model":"SR5",
     "Color":"Nautical Blue Metallic",
+    "Dealer":"Mountain States Toyota"
+  },
+  {
+    "VIN":"JTEMU5JR9P6140471",
+    "MSRP":45149.0,
+    "Model":"SR5",
+    "Color":"Classic Silver Metallic",
     "Dealer":"Mountain States Toyota"
   },
   {
@@ -11900,14 +11893,14 @@
     "Dealer":"Family Toyota of Burleson"
   },
   {
-    "VIN":"JTEMU5JR9P6134203",
+    "VIN":"JTEMU5JR4P6135467",
     "MSRP":45204.0,
     "Model":"SR5",
     "Color":"Barcelona Red Metallic",
     "Dealer":"Family Toyota of Burleson"
   },
   {
-    "VIN":"JTEMU5JR4P6135467",
+    "VIN":"JTEMU5JR9P6134203",
     "MSRP":45204.0,
     "Model":"SR5",
     "Color":"Barcelona Red Metallic",
@@ -13132,14 +13125,14 @@
     "Dealer":"Fred Haas Toyota World"
   },
   {
-    "VIN":"JTEMU5JR2P6137735",
+    "VIN":"JTEMU5JR0P6135031",
     "MSRP":46454.0,
     "Model":"SR5",
     "Color":"Barcelona Red Metallic",
     "Dealer":"Fred Haas Toyota World"
   },
   {
-    "VIN":"JTEMU5JR0P6135031",
+    "VIN":"JTEMU5JR2P6137735",
     "MSRP":46454.0,
     "Model":"SR5",
     "Color":"Barcelona Red Metallic",
@@ -13328,7 +13321,7 @@
     "Dealer":"Toyota of Cedar Park"
   },
   {
-    "VIN":"JTEMU5JRXP6131925",
+    "VIN":"JTEMU5JR8P6129753",
     "MSRP":46798.0,
     "Model":"SR5",
     "Color":"Barcelona Red Metallic",
@@ -13342,14 +13335,7 @@
     "Dealer":"Toyota of Cedar Park"
   },
   {
-    "VIN":"JTEMU5JR8P6129753",
-    "MSRP":46798.0,
-    "Model":"SR5",
-    "Color":"Barcelona Red Metallic",
-    "Dealer":"Toyota of Cedar Park"
-  },
-  {
-    "VIN":"JTEMU5JR4P6136893",
+    "VIN":"JTEMU5JRXP6131925",
     "MSRP":46798.0,
     "Model":"SR5",
     "Color":"Barcelona Red Metallic",
@@ -13360,6 +13346,13 @@
     "MSRP":46798.0,
     "Model":"SR5",
     "Color":"Nautical Blue Metallic",
+    "Dealer":"Toyota of Cedar Park"
+  },
+  {
+    "VIN":"JTEMU5JR4P6136893",
+    "MSRP":46798.0,
+    "Model":"SR5",
+    "Color":"Barcelona Red Metallic",
     "Dealer":"Toyota of Cedar Park"
   },
   {
@@ -13937,13 +13930,6 @@
     "Dealer":"Cavender Toyota"
   },
   {
-    "VIN":"JTEMU5JR6P6128732",
-    "MSRP":48413.0,
-    "Model":"SR5",
-    "Color":"Barcelona Red Metallic",
-    "Dealer":"Cavender Toyota"
-  },
-  {
     "VIN":"JTEMU5JR8P6136296",
     "MSRP":48419.0,
     "Model":"SR5",
@@ -14376,13 +14362,6 @@
     "Model":"SR5",
     "Color":"Magnetic Gray Metallic",
     "Dealer":"Jerry's Toyota"
-  },
-  {
-    "VIN":"JTEMU5JR9P6137022",
-    "MSRP":null,
-    "Model":"SR5",
-    "Color":"Ice Cap",
-    "Dealer":"Freeman Toyota"
   },
   {
     "VIN":"JTEMU5JR1P6128024",
@@ -14964,13 +14943,6 @@
     "Model":"SR5 Premium",
     "Color":"Nautical Blue Metallic",
     "Dealer":"Central Maine Toyota"
-  },
-  {
-    "VIN":"JTENU5JRXP6138944",
-    "MSRP":46368.0,
-    "Model":"SR5 Premium",
-    "Color":"Nautical Blue Metallic",
-    "Dealer":"Earnhardt Toyota"
   },
   {
     "VIN":"JTEFU5JR5P5288986",
@@ -15680,17 +15652,17 @@
     "Dealer":"Maguire Toyota of Grand Island"
   },
   {
-    "VIN":"JTENU5JR3P6142396",
-    "MSRP":47087.0,
-    "Model":"SR5 Premium",
-    "Color":"Magnetic Gray Metallic",
-    "Dealer":"Longo Toyota"
-  },
-  {
     "VIN":"JTENU5JR2P6141448",
     "MSRP":47087.0,
     "Model":"SR5 Premium",
     "Color":"Ice Cap",
+    "Dealer":"Longo Toyota"
+  },
+  {
+    "VIN":"JTENU5JR3P6142396",
+    "MSRP":47087.0,
+    "Model":"SR5 Premium",
+    "Color":"Magnetic Gray Metallic",
     "Dealer":"Longo Toyota"
   },
   {
@@ -16338,14 +16310,14 @@
     "Dealer":"Cavender Toyota"
   },
   {
-    "VIN":"JTEFU5JR8P5289405",
+    "VIN":"JTEFU5JR0P5289396",
     "MSRP":47524.0,
     "Model":"SR5 Premium",
     "Color":"Ice Cap",
     "Dealer":"Cavender Toyota"
   },
   {
-    "VIN":"JTEFU5JR0P5289396",
+    "VIN":"JTEFU5JR8P5289405",
     "MSRP":47524.0,
     "Model":"SR5 Premium",
     "Color":"Ice Cap",
@@ -16856,13 +16828,6 @@
     "Dealer":"AutoNation Toyota Leesburg"
   },
   {
-    "VIN":"JTENU5JR2P6137755",
-    "MSRP":47866.0,
-    "Model":"SR5 Premium",
-    "Color":"Classic Silver Metallic",
-    "Dealer":"Koons Tysons Toyota"
-  },
-  {
     "VIN":"JTENU5JR0P6129881",
     "MSRP":47866.0,
     "Model":"SR5 Premium",
@@ -16874,6 +16839,13 @@
     "MSRP":47866.0,
     "Model":"SR5 Premium",
     "Color":"Ice Cap",
+    "Dealer":"Koons Tysons Toyota"
+  },
+  {
+    "VIN":"JTENU5JR2P6137755",
+    "MSRP":47866.0,
+    "Model":"SR5 Premium",
+    "Color":"Classic Silver Metallic",
     "Dealer":"Koons Tysons Toyota"
   },
   {
@@ -16959,13 +16931,6 @@
     "Model":"SR5 Premium",
     "Color":"Ice Cap",
     "Dealer":"Mark Miller Toyota"
-  },
-  {
-    "VIN":"JTENU5JR2P6135732",
-    "MSRP":47919.0,
-    "Model":"SR5 Premium",
-    "Color":"Magnetic Gray Metallic",
-    "Dealer":"Performance Toyota Bountiful"
   },
   {
     "VIN":"JTENU5JR0P6128486",
@@ -18235,17 +18200,17 @@
     "Dealer":"Gloucester Toyota"
   },
   {
-    "VIN":"JTENU5JR6P6136639",
-    "MSRP":48778.0,
-    "Model":"SR5 Premium",
-    "Color":"Ice Cap",
-    "Dealer":"Priority Toyota"
-  },
-  {
     "VIN":"JTENU5JR4P6136431",
     "MSRP":48778.0,
     "Model":"SR5 Premium",
     "Color":"Magnetic Gray Metallic",
+    "Dealer":"Priority Toyota"
+  },
+  {
+    "VIN":"JTENU5JR6P6136639",
+    "MSRP":48778.0,
+    "Model":"SR5 Premium",
+    "Color":"Ice Cap",
     "Dealer":"Priority Toyota"
   },
   {
@@ -19103,14 +19068,14 @@
     "Dealer":"Fred Haas Toyota World"
   },
   {
-    "VIN":"JTEFU5JR7P5289539",
+    "VIN":"JTEFU5JR5P5289507",
     "MSRP":49324.0,
     "Model":"SR5 Premium",
     "Color":"Ice Cap",
     "Dealer":"Fred Haas Toyota World"
   },
   {
-    "VIN":"JTEFU5JR5P5289507",
+    "VIN":"JTEFU5JR7P5289539",
     "MSRP":49324.0,
     "Model":"SR5 Premium",
     "Color":"Ice Cap",
@@ -19236,14 +19201,14 @@
     "Dealer":"Vancouver Toyota"
   },
   {
-    "VIN":"JTENU5JR2P6139716",
+    "VIN":"JTENU5JR4P6142164",
     "MSRP":49428.0,
     "Model":"SR5 Premium",
     "Color":"Magnetic Gray Metallic",
     "Dealer":"Vancouver Toyota"
   },
   {
-    "VIN":"JTENU5JR4P6142164",
+    "VIN":"JTENU5JR2P6139716",
     "MSRP":49428.0,
     "Model":"SR5 Premium",
     "Color":"Magnetic Gray Metallic",
@@ -21231,17 +21196,17 @@
     "Dealer":"Bert Ogden Toyota of Harlingen"
   },
   {
-    "VIN":"JTENU5JR5P6140598",
-    "MSRP":51731.0,
-    "Model":"SR5 Premium",
-    "Color":"Magnetic Gray Metallic",
-    "Dealer":"Toyota of El Cajon"
-  },
-  {
     "VIN":"JTENU5JR3P6140941",
     "MSRP":51731.0,
     "Model":"SR5 Premium",
     "Color":"Barcelona Red Metallic",
+    "Dealer":"Toyota of El Cajon"
+  },
+  {
+    "VIN":"JTENU5JR5P6140598",
+    "MSRP":51731.0,
+    "Model":"SR5 Premium",
+    "Color":"Magnetic Gray Metallic",
     "Dealer":"Toyota of El Cajon"
   },
   {
@@ -22526,13 +22491,6 @@
     "Dealer":"Freeman Toyota"
   },
   {
-    "VIN":"JTENU5JR4P6135764",
-    "MSRP":null,
-    "Model":"SR5 Premium",
-    "Color":"Midnight Black Metallic",
-    "Dealer":"Freeman Toyota"
-  },
-  {
     "VIN":"JTENU5JR6P6121266",
     "MSRP":null,
     "Model":"SR5 Premium",
@@ -22911,17 +22869,17 @@
     "Dealer":"AutoNation Toyota Winter Park"
   },
   {
-    "VIN":"JTERU5JR0P6135424",
-    "MSRP":47404.0,
-    "Model":"TRD Off-Road Premium",
-    "Color":"Nautical Blue Metallic",
-    "Dealer":"AutoNation Toyota Winter Park"
-  },
-  {
     "VIN":"JTERU5JR8P6137289",
     "MSRP":47404.0,
     "Model":"TRD Off-Road Premium",
     "Color":"Midnight Black Metallic",
+    "Dealer":"AutoNation Toyota Winter Park"
+  },
+  {
+    "VIN":"JTERU5JR0P6135424",
+    "MSRP":47404.0,
+    "Model":"TRD Off-Road Premium",
+    "Color":"Nautical Blue Metallic",
     "Dealer":"AutoNation Toyota Winter Park"
   },
   {
@@ -23247,17 +23205,17 @@
     "Dealer":"Stevinson Toyota West"
   },
   {
-    "VIN":"JTERU5JR4P6130744",
-    "MSRP":47689.0,
-    "Model":"TRD Off-Road Premium",
-    "Color":"Lunar Rock",
-    "Dealer":"Stevinson Toyota West"
-  },
-  {
     "VIN":"JTERU5JR3P6141332",
     "MSRP":47689.0,
     "Model":"TRD Off-Road Premium",
     "Color":"Magnetic Gray Metallic",
+    "Dealer":"Stevinson Toyota West"
+  },
+  {
+    "VIN":"JTERU5JR4P6130744",
+    "MSRP":47689.0,
+    "Model":"TRD Off-Road Premium",
+    "Color":"Lunar Rock",
     "Dealer":"Stevinson Toyota West"
   },
   {
@@ -25235,13 +25193,6 @@
     "Dealer":"Toyota of Huntington Beach"
   },
   {
-    "VIN":"JTERU5JR3P6132419",
-    "MSRP":49154.0,
-    "Model":"TRD Off-Road Premium",
-    "Color":"Classic Silver Metallic",
-    "Dealer":"AutoNation Toyota Winter Park"
-  },
-  {
     "VIN":"JTERU5JR3P6139306",
     "MSRP":49154.0,
     "Model":"TRD Off-Road Premium",
@@ -26052,13 +26003,6 @@
     "Model":"TRD Off-Road Premium",
     "Color":"Nautical Blue Metallic",
     "Dealer":"Toyota of Tampa Bay"
-  },
-  {
-    "VIN":"JTERU5JR6P6137517",
-    "MSRP":49599.0,
-    "Model":"TRD Off-Road Premium",
-    "Color":"Magnetic Gray Metallic",
-    "Dealer":"Roseville Toyota"
   },
   {
     "VIN":"JTERU5JR1P6136744",
@@ -26915,13 +26859,6 @@
     "Dealer":"AutoNation Toyota Pinellas Park"
   },
   {
-    "VIN":"JTERU5JR3P6134560",
-    "MSRP":49995.0,
-    "Model":"TRD Off-Road Premium",
-    "Color":"Ice Cap",
-    "Dealer":"Toyota of Tacoma"
-  },
-  {
     "VIN":"JTERU5JR7P6132181",
     "MSRP":50002.0,
     "Model":"TRD Off-Road Premium",
@@ -27643,17 +27580,17 @@
     "Dealer":"Sunrise Toyota"
   },
   {
-    "VIN":"JTERU5JR8P6142640",
-    "MSRP":50388.0,
-    "Model":"TRD Off-Road Premium",
-    "Color":"Nautical Blue Metallic",
-    "Dealer":"Dolan Toyota"
-  },
-  {
     "VIN":"JTERU5JR7P6139874",
     "MSRP":50388.0,
     "Model":"TRD Off-Road Premium",
     "Color":"Barcelona Red Metallic",
+    "Dealer":"Dolan Toyota"
+  },
+  {
+    "VIN":"JTERU5JR8P6142640",
+    "MSRP":50388.0,
+    "Model":"TRD Off-Road Premium",
+    "Color":"Nautical Blue Metallic",
     "Dealer":"Dolan Toyota"
   },
   {
@@ -28098,17 +28035,17 @@
     "Dealer":"Beaverton Toyota"
   },
   {
-    "VIN":"JTERU5JR2P6141886",
-    "MSRP":50578.0,
-    "Model":"TRD Off-Road Premium",
-    "Color":"Magnetic Gray Metallic",
-    "Dealer":"Toyota of Whittier"
-  },
-  {
     "VIN":"JTERU5JR3P6139127",
     "MSRP":50578.0,
     "Model":"TRD Off-Road Premium",
     "Color":"Ice Cap",
+    "Dealer":"Toyota of Whittier"
+  },
+  {
+    "VIN":"JTERU5JR2P6141886",
+    "MSRP":50578.0,
+    "Model":"TRD Off-Road Premium",
+    "Color":"Magnetic Gray Metallic",
     "Dealer":"Toyota of Whittier"
   },
   {
@@ -28777,13 +28714,6 @@
     "Dealer":"Performance Toyota Bountiful"
   },
   {
-    "VIN":"JTERU5JR5P6127996",
-    "MSRP":50962.0,
-    "Model":"TRD Off-Road Premium",
-    "Color":"Magnetic Gray Metallic",
-    "Dealer":"City Toyota"
-  },
-  {
     "VIN":"JTERU5JRXP6138105",
     "MSRP":50964.0,
     "Model":"TRD Off-Road Premium",
@@ -29155,17 +29085,17 @@
     "Dealer":"Culver City Toyota"
   },
   {
-    "VIN":"JTERU5JR9P6142646",
-    "MSRP":51203.0,
-    "Model":"TRD Off-Road Premium",
-    "Color":"Magnetic Gray Metallic",
-    "Dealer":"DARCARS Toyota"
-  },
-  {
     "VIN":"JTERU5JR0P6138758",
     "MSRP":51203.0,
     "Model":"TRD Off-Road Premium",
     "Color":"Classic Silver Metallic",
+    "Dealer":"DARCARS Toyota"
+  },
+  {
+    "VIN":"JTERU5JR9P6142646",
+    "MSRP":51203.0,
+    "Model":"TRD Off-Road Premium",
+    "Color":"Magnetic Gray Metallic",
     "Dealer":"DARCARS Toyota"
   },
   {
@@ -33012,6 +32942,13 @@
     "Dealer":"Toyota of Rock Hill"
   },
   {
+    "VIN":"JTERU5JR3P6134560",
+    "MSRP":54994.0,
+    "Model":"TRD Off-Road Premium",
+    "Color":"Ice Cap",
+    "Dealer":"Toyota of Tacoma"
+  },
+  {
     "VIN":"JTERU5JR5P6141851",
     "MSRP":55017.0,
     "Model":"TRD Off-Road Premium",
@@ -33250,6 +33187,13 @@
     "Dealer":"Tejas Toyota"
   },
   {
+    "VIN":"JTERU5JR2P6139328",
+    "MSRP":57372.0,
+    "Model":"TRD Off-Road Premium",
+    "Color":"Lunar Rock",
+    "Dealer":"Toyota Carlsbad"
+  },
+  {
     "VIN":"JTERU5JR0P6138906",
     "MSRP":57493.0,
     "Model":"TRD Off-Road Premium",
@@ -33289,13 +33233,6 @@
     "MSRP":59122.0,
     "Model":"TRD Off-Road Premium",
     "Color":"Lunar Rock",
-    "Dealer":"Toyota Carlsbad"
-  },
-  {
-    "VIN":"JTERU5JR7P6133637",
-    "MSRP":59202.0,
-    "Model":"TRD Off-Road Premium",
-    "Color":"Ice Cap",
     "Dealer":"Toyota Carlsbad"
   },
   {
@@ -33691,13 +33628,6 @@
     "Dealer":"South Coast Toyota"
   },
   {
-    "VIN":"JTELU5JR9P6134178",
-    "MSRP":55355.0,
-    "Model":"TRD Pro",
-    "Color":"Midnight Black Metallic",
-    "Dealer":"San Francisco Toyota"
-  },
-  {
     "VIN":"JTELU5JR3P6142888",
     "MSRP":55355.0,
     "Model":"TRD Pro",
@@ -33936,14 +33866,14 @@
     "Dealer":"Roberts Toyota"
   },
   {
-    "VIN":"JTELU5JR7P6135233",
+    "VIN":"JTELU5JR4P6141605",
     "MSRP":55784.0,
     "Model":"TRD Pro",
     "Color":"Ice Cap",
     "Dealer":"Roberts Toyota"
   },
   {
-    "VIN":"JTELU5JR4P6141605",
+    "VIN":"JTELU5JR7P6135233",
     "MSRP":55784.0,
     "Model":"TRD Pro",
     "Color":"Ice Cap",
@@ -34459,6 +34389,13 @@
     "Model":"TRD Pro",
     "Color":"Ice Cap",
     "Dealer":"United Toyota"
+  },
+  {
+    "VIN":"JTELU5JR9P6134178",
+    "MSRP":56355.0,
+    "Model":"TRD Pro",
+    "Color":"Midnight Black Metallic",
+    "Dealer":"San Francisco Toyota"
   },
   {
     "VIN":"JTELU5JR4P6138140",
@@ -36526,13 +36463,6 @@
     "Dealer":"Markquart Toyota"
   },
   {
-    "VIN":"JTELU5JR6P6125843",
-    "MSRP":57486.0,
-    "Model":"TRD Pro",
-    "Color":"Ice Cap",
-    "Dealer":"Camelback Toyota"
-  },
-  {
     "VIN":"JTELU5JR4P6136114",
     "MSRP":57487.0,
     "Model":"TRD Pro",
@@ -38045,6 +37975,13 @@
     "Dealer":"Ryburn Toyota"
   },
   {
+    "VIN":"JTEAU5JRXP5289271",
+    "MSRP":45804.0,
+    "Model":"TRD Sport",
+    "Color":"Magnetic Gray Metallic",
+    "Dealer":"Greg Leblanc Toyota"
+  },
+  {
     "VIN":"JTEAU5JR3P5288883",
     "MSRP":45804.0,
     "Model":"TRD Sport",
@@ -39403,17 +39340,17 @@
     "Dealer":"Dolan Toyota"
   },
   {
-    "VIN":"JTESU5JR5P6138739",
-    "MSRP":49349.0,
-    "Model":"TRD Sport",
-    "Color":"Lunar Rock",
-    "Dealer":"Cavender Toyota"
-  },
-  {
     "VIN":"JTESU5JR8P6136273",
     "MSRP":49349.0,
     "Model":"TRD Sport",
     "Color":"Lime Rush",
+    "Dealer":"Cavender Toyota"
+  },
+  {
+    "VIN":"JTESU5JR5P6138739",
+    "MSRP":49349.0,
+    "Model":"TRD Sport",
+    "Color":"Lunar Rock",
     "Dealer":"Cavender Toyota"
   },
   {
