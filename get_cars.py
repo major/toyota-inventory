@@ -170,8 +170,8 @@ def remove_presold(df):
     return df[df.isPreSold == False]
 
 
-df = get_all_vehicles()
-df = remove_presold(df)
+raw_df = get_all_vehicles()
+df = remove_presold(raw_df)
 df = make_view(df)
 df = filter_columns(df)
 
@@ -181,4 +181,7 @@ df = df.sort_values(["Model", "MSRP"], ascending=[True, True])
 # Write to the markdown file.
 df.info()
 df.to_markdown("vehicles.md", index=False)
-df.to_json("vehicles.json", orient="records")
+
+# Write JSON files, too.
+df.to_json("vehicles.json", orient="records", indent=2)
+df.to_json("vehicles.json", orient="records", indent=2).to_json("vehicles_raw.json", orient="records", indent=2)
