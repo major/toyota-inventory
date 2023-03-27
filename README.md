@@ -1,5 +1,5 @@
 # toyota-inventory
 
-Tracking inventory of Toyota vehicles
+Tracking inventory of Toyota 4Runner vehicles.
 
-Work in progress.
+_Not affiliated with Toyota in any way._
