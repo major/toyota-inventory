@@ -165,6 +165,16 @@ def translate_status(df):
     return df.replace({"Shipping Status": statuses})
 
 
+def translate_presold(df):
+    """Translate the vehicle presold status into useful values."""
+    statuses = {
+        None: "No",
+        False: "No",
+        True: "Yes",
+    }
+    return df.replace({"Pre-Sold": statuses})
+
+
 def make_view(df):
     """Create a view of the dataframe with the columns we care about."""
     df = df[
@@ -174,6 +184,7 @@ def make_view(df):
             "price.baseMsrp",
             "isPreSold",
             "holdStatus",
+            "year",
             "model.marketingName",
             "extColor.marketingName",
             "dealerMarketingName",
@@ -190,6 +201,7 @@ def make_view(df):
             "dealerMarketingName": "Dealer",
             "isPreSold": "Pre-Sold",
             "holdStatus": "Hold Status",
+            "year": "Year",
         }
     )
 
@@ -202,6 +214,7 @@ else:
 df = make_view(raw_df)
 df = cleanup_columns(df)
 df = translate_status(df)
+df = translate_presold(df)
 
 # Sort by model name then by MSRP.
 df = df.sort_values(["Model", "Dealer Price"], ascending=[True, True])
