@@ -158,9 +158,9 @@ def cleanup_columns(df):
 def translate_status(df):
     """Translate the vehicle shipping status into useful values."""
     statuses = {
-        "A": "Production or shipping",
-        "F": "From port to dealer",
-        "G": "At dealership",
+        "A": "Factory to port",
+        "F": "Port to dealer",
+        "G": "At dealer",
     }
     return df.replace({"Shipping Status": statuses})
 
