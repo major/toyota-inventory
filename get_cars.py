@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 """Get 4Runner vehicles from Toyota's inventory."""
 import json
-import sys
+import uuid
 
 import pandas as pd
 import requests
@@ -17,7 +17,7 @@ GRAPHQL_QUERY = """query {
     pageSize: 250
     seriesCodes: "4runner"
     distance: 20000
-    leadid: "c1a95bb2-0f55-42f9-994a-ba958fdefba4"
+    leadid: "%s"
   ) {
     pagination {
       pageNo
@@ -111,7 +111,7 @@ def query_toyota(page_number):
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0",
         "accept": "*/*",
     }
-    json_post = {"query": GRAPHQL_QUERY % page_number}
+    json_post = {"query": GRAPHQL_QUERY % (page_number, uuid.UUID())}
     resp = requests.post(url, json=json_post, headers=headers)
 
     return resp.json()["data"]["locateVehiclesByZip"]["vehicleSummary"]
@@ -182,13 +182,13 @@ def make_view(df):
             "vin",
             "dealerCategory",
             "price.baseMsrp",
+            "price.dioTotalDealerSellingPrice",
             "isPreSold",
             "holdStatus",
             "year",
             "model.marketingName",
             "extColor.marketingName",
             "dealerMarketingName",
-            "price.dioTotalDealerSellingPrice",
         ]
     ].copy()
     return df.rename(
@@ -218,6 +218,22 @@ df = translate_presold(df)
 
 # Sort by model name then by MSRP.
 df = df.sort_values(["Model", "Dealer Price"], ascending=[True, True])
+
+# Get column ordering just right.
+df = df.reindex(
+    columns=[
+        "Model",
+        "Year",
+        "Color",
+        "Base MSRP",
+        "Dealer Price",
+        "Shipping Status",
+        "Hold Status",
+        "Pre-Sold",
+        "Dealer",
+        "VIN",
+    ]
+)
 
 # Write to the markdown file.
 df.info()
