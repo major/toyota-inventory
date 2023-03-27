@@ -111,7 +111,7 @@ def query_toyota(page_number):
         "user-agent": "Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0",
         "accept": "*/*",
     }
-    json_post = {"query": GRAPHQL_QUERY % (page_number, uuid.UUID())}
+    json_post = {"query": GRAPHQL_QUERY % (page_number, str(uuid.uuid4()))}
     resp = requests.post(url, json=json_post, headers=headers)
 
     return resp.json()["data"]["locateVehiclesByZip"]["vehicleSummary"]
