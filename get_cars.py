@@ -6,6 +6,9 @@ import sys
 import pandas as pd
 import requests
 
+# Set this to True to query local data instead of Toyota's API.
+QUERY_LOCAL_DATA = False
+
 GRAPHQL_QUERY = """query {
   locateVehiclesByZip(
     zipCode: "78729"
@@ -114,6 +117,11 @@ def query_toyota(page_number):
     return resp.json()["data"]["locateVehiclesByZip"]["vehicleSummary"]
 
 
+def query_local_data():
+    """Query local data for a page of vehicles."""
+    return pd.json_normalize(json.load(open("vehicles_raw.json", "r")))
+
+
 def get_all_vehicles():
     """Get all vehicles from Toyota."""
     df = pd.DataFrame()
@@ -135,14 +143,26 @@ def get_all_vehicles():
     return df
 
 
-def filter_columns(df):
+def cleanup_columns(df):
     """Replace data in columns."""
     df["Model"] = df["Model"].str.replace("4Runner ", "")
     df["Model"] = df["Model"].str.replace("40th Anniversary Special Edition", "40th")
     df["Color"] = df["Color"].str.replace(" [extra_cost_color]", "", regex=False)
-    df["MSRP"] = df["MSRP"] + df["DIO"]
-    return df.drop(columns=["DIO"])
+
+    # Calculate the dealer's final price.
+    df["Dealer Price"] = df["Base MSRP"] + df["price.dioTotalDealerSellingPrice"]
+    df.drop(columns=["price.dioTotalDealerSellingPrice"], inplace=True)
     return df
+
+
+def translate_status(df):
+    """Translate the vehicle shipping status into useful values."""
+    statuses = {
+        "A": "Production or shipping",
+        "F": "From port to dealer",
+        "G": "At dealership",
+    }
+    return df.replace({"Shipping Status": statuses})
 
 
 def make_view(df):
@@ -150,37 +170,41 @@ def make_view(df):
     df = df[
         [
             "vin",
-            "price.totalMsrp",
+            "dealerCategory",
+            "price.baseMsrp",
+            "isPreSold",
+            "holdStatus",
             "model.marketingName",
             "extColor.marketingName",
             "dealerMarketingName",
-            "price.dioTotalDealerSellingPrice"
+            "price.dioTotalDealerSellingPrice",
         ]
     ].copy()
     return df.rename(
         columns={
             "vin": "VIN",
-            "price.totalMsrp": "MSRP",
-            "price.dioTotalDealerSellingPrice": "DIO",
+            "price.baseMsrp": "Base MSRP",
             "model.marketingName": "Model",
             "extColor.marketingName": "Color",
+            "dealerCategory": "Shipping Status",
             "dealerMarketingName": "Dealer",
+            "isPreSold": "Pre-Sold",
+            "holdStatus": "Hold Status",
         }
     )
 
 
-def remove_presold(df):
-    """Remove any vehicles which are already sold."""
-    return df[df.isPreSold == False]
+if QUERY_LOCAL_DATA:
+    raw_df = query_local_data()
+else:
+    raw_df = get_all_vehicles()
 
-
-raw_df = get_all_vehicles()
-df = remove_presold(raw_df)
-df = make_view(df)
-df = filter_columns(df)
+df = make_view(raw_df)
+df = cleanup_columns(df)
+df = translate_status(df)
 
 # Sort by model name then by MSRP.
-df = df.sort_values(["Model", "MSRP"], ascending=[True, True])
+df = df.sort_values(["Model", "Dealer Price"], ascending=[True, True])
 
 # Write to the markdown file.
 df.info()
