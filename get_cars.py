@@ -216,12 +216,10 @@ df = cleanup_columns(df)
 df = translate_status(df)
 df = translate_presold(df)
 
-# Sort by model name then by MSRP.
-df = df.sort_values(["Model", "Dealer Price"], ascending=[True, True])
-
 # Get column ordering just right.
 df = df.reindex(
     columns=[
+        "VIN",
         "Model",
         "Year",
         "Color",
@@ -231,9 +229,11 @@ df = df.reindex(
         "Hold Status",
         "Pre-Sold",
         "Dealer",
-        "VIN",
     ]
 )
+
+# Sort by model name then by MSRP.
+df = df.sort_values(["VIN"], ascending=[True])
 
 # Write to the markdown file.
 df.info()
