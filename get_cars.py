@@ -232,8 +232,9 @@ df = df.reindex(
     ]
 )
 
-# Sort by model name then by MSRP.
+# Sort by VIN to avoid lots of repo churn.
 df = df.sort_values(["VIN"], ascending=[True])
+raw_df = raw_df.sort_values(["vin"], ascending=[True])
 
 # Write to the markdown file.
 df.info()
