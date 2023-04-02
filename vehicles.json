@@ -17,8 +17,8 @@
     "Year":2023,
     "Color":"Classic Silver Metallic",
     "Base MSRP":42415,
-    "Dealer Price":42415.0,
-    "Shipping Status":"Factory to port",
+    "Dealer Price":45395.0,
+    "Shipping Status":"Port to dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Joe Myers Toyota"
@@ -151,7 +151,7 @@
     "Base MSRP":42415,
     "Dealer Price":42415.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":"DealerHold",
+    "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Yokem Toyota"
   },
@@ -309,7 +309,7 @@
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
     "Pre-Sold":"No",
-    "Dealer":"Sterling McCall Toyota Fort Bend"
+    "Dealer":"Sterling McCall Toyota"
   },
   {
     "VIN":"JTEAU5JR2P5289460",
@@ -336,25 +336,13 @@
     "Dealer":"Toyota of Melbourne"
   },
   {
-    "VIN":"JTEAU5JR3P5288527",
-    "Model":"TRD Sport",
-    "Year":2023,
-    "Color":"Classic Silver Metallic",
-    "Base MSRP":42415,
-    "Dealer Price":43513.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Toyota of Cedar Park"
-  },
-  {
     "VIN":"JTEAU5JR3P5288799",
     "Model":"TRD Sport",
     "Year":2023,
     "Color":"Midnight Black Metallic",
     "Base MSRP":42415,
     "Dealer Price":43910.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Price LeBlanc Toyota"
@@ -660,18 +648,6 @@
     "Dealer":"Universal Toyota"
   },
   {
-    "VIN":"JTEAU5JR6P5288862",
-    "Model":"TRD Sport",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":42415,
-    "Dealer Price":42415.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"John Harvey Toyota"
-  },
-  {
     "VIN":"JTEAU5JR6P5288909",
     "Model":"TRD Sport",
     "Year":2023,
@@ -810,7 +786,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":42415,
     "Dealer Price":42415.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Jim Norton Toyota of Oklahoma City"
@@ -1194,7 +1170,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":48790,
     "Dealer Price":49888.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Toyota of Cedar Park"
@@ -1296,18 +1272,6 @@
     "Dealer":"Hutchinson Toyota of Albany"
   },
   {
-    "VIN":"JTEDU5JR2P5289018",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":48790,
-    "Dealer Price":48790.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Toyota of Melbourne"
-  },
-  {
     "VIN":"JTEDU5JR2P5289102",
     "Model":"Limited",
     "Year":2023,
@@ -1392,18 +1356,6 @@
     "Dealer":"Bubba Oustalet Toyota"
   },
   {
-    "VIN":"JTEDU5JR3P5289318",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Midnight Black Metallic",
-    "Base MSRP":48790,
-    "Dealer Price":48790.0,
-    "Shipping Status":"Factory to port",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Sparks Toyota"
-  },
-  {
     "VIN":"JTEDU5JR4P5279333",
     "Model":"Limited",
     "Year":2023,
@@ -1426,30 +1378,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Street Toyota"
-  },
-  {
-    "VIN":"JTEDU5JR4P5288386",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Blizzard Pearl",
-    "Base MSRP":48790,
-    "Dealer Price":48790.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Beaver Toyota of Cumming"
-  },
-  {
-    "VIN":"JTEDU5JR4P5288453",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Blizzard Pearl",
-    "Base MSRP":48790,
-    "Dealer Price":48790.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"World Toyota"
   },
   {
     "VIN":"JTEDU5JR4P5289196",
@@ -1476,24 +1404,12 @@
     "Dealer":"Jim Hudson Toyota"
   },
   {
-    "VIN":"JTEDU5JR5P5288669",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Barcelona Red Metallic",
-    "Base MSRP":48790,
-    "Dealer Price":48790.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Bondy's Enterprise Toyota"
-  },
-  {
     "VIN":"JTEDU5JR5P5288767",
     "Model":"Limited",
     "Year":2023,
     "Color":"Classic Silver Metallic",
     "Base MSRP":48790,
-    "Dealer Price":48790.0,
+    "Dealer Price":50785.0,
     "Shipping Status":"Port to dealer",
     "Hold Status":"Available",
     "Pre-Sold":"Yes",
@@ -2148,18 +2064,6 @@
     "Dealer":"Mike Erdman Toyota"
   },
   {
-    "VIN":"JTEEU5JR0P5289555",
-    "Model":"SR5",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":39555,
-    "Dealer Price":39555.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Palm Beach Toyota"
-  },
-  {
     "VIN":"JTEEU5JR0P5289569",
     "Model":"SR5",
     "Year":2023,
@@ -2168,7 +2072,7 @@
     "Dealer Price":39555.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Greg Leblanc Toyota"
   },
   {
@@ -2417,11 +2321,11 @@
     "Year":2023,
     "Color":"Ice Cap",
     "Base MSRP":39555,
-    "Dealer Price":39555.0,
+    "Dealer Price":41550.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"North Park Toyota of San Antonio"
+    "Pre-Sold":"Yes",
+    "Dealer":"Toyota of Killeen"
   },
   {
     "VIN":"JTEEU5JR2P5289167",
@@ -2590,6 +2494,18 @@
     "Hold Status":"Available",
     "Pre-Sold":"Yes",
     "Dealer":"Vic Vaughan Toyota of Boerne"
+  },
+  {
+    "VIN":"JTEEU5JR3P5289050",
+    "Model":"SR5",
+    "Year":2023,
+    "Color":"Ice Cap",
+    "Base MSRP":39555,
+    "Dealer Price":39555.0,
+    "Shipping Status":"Factory to port",
+    "Hold Status":"Available",
+    "Pre-Sold":"Yes",
+    "Dealer":"Morgan City Toyota"
   },
   {
     "VIN":"JTEEU5JR3P5289114",
@@ -2772,18 +2688,6 @@
     "Dealer":"Daytona Toyota"
   },
   {
-    "VIN":"JTEEU5JR4P5288893",
-    "Model":"SR5",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":39555,
-    "Dealer Price":39555.0,
-    "Shipping Status":"Factory to port",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Atlanta Toyota"
-  },
-  {
     "VIN":"JTEEU5JR4P5288991",
     "Model":"SR5",
     "Year":2023,
@@ -2950,18 +2854,6 @@
     "Hold Status":"Available",
     "Pre-Sold":"Yes",
     "Dealer":"Toyota of North Austin"
-  },
-  {
-    "VIN":"JTEEU5JR5P5288787",
-    "Model":"SR5",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":39555,
-    "Dealer Price":39555.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Stewart Toyota"
   },
   {
     "VIN":"JTEEU5JR5P5288949",
@@ -3185,7 +3077,7 @@
     "Year":2023,
     "Color":"Nautical Blue Metallic",
     "Base MSRP":39555,
-    "Dealer Price":44134.0,
+    "Dealer Price":42535.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
@@ -3269,11 +3161,11 @@
     "Year":2023,
     "Color":"Classic Silver Metallic",
     "Base MSRP":39555,
-    "Dealer Price":39555.0,
+    "Dealer Price":null,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
     "Pre-Sold":"No",
-    "Dealer":"Hendrick Toyota Wilmington"
+    "Dealer":"Rick Hendrick Toyota"
   },
   {
     "VIN":"JTEEU5JR6P5289379",
@@ -3636,18 +3528,6 @@
     "Dealer":"Toyota of Melbourne"
   },
   {
-    "VIN":"JTEEU5JR8P5289304",
-    "Model":"SR5",
-    "Year":2023,
-    "Color":"Midnight Black Metallic",
-    "Base MSRP":39555,
-    "Dealer Price":null,
-    "Shipping Status":"Factory to port",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Rivertown Toyota"
-  },
-  {
     "VIN":"JTEEU5JR8P5289321",
     "Model":"SR5",
     "Year":2023,
@@ -3775,8 +3655,8 @@
     "Base MSRP":39555,
     "Dealer Price":41550.0,
     "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"Yes",
     "Dealer":"Cavender Toyota"
   },
   {
@@ -3948,18 +3828,6 @@
     "Dealer":"Fred Haas Toyota World"
   },
   {
-    "VIN":"JTEEU5JRXP5288185",
-    "Model":"SR5",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":39555,
-    "Dealer Price":39555.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"McKinnon Toyota"
-  },
-  {
     "VIN":"JTEEU5JRXP5288218",
     "Model":"SR5",
     "Year":2023,
@@ -4044,18 +3912,6 @@
     "Dealer":"DeLuca Toyota"
   },
   {
-    "VIN":"JTEEU5JRXP5289014",
-    "Model":"SR5",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":39555,
-    "Dealer Price":39555.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Cherokee County Toyota"
-  },
-  {
     "VIN":"JTEEU5JRXP5289093",
     "Model":"SR5",
     "Year":2023,
@@ -4114,18 +3970,6 @@
     "Hold Status":"Available",
     "Pre-Sold":"Yes",
     "Dealer":"Bohn Toyota"
-  },
-  {
-    "VIN":"JTEFU5JR0P5288491",
-    "Model":"SR5 Premium",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":42615,
-    "Dealer Price":48510.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Mike Calvert Toyota"
   },
   {
     "VIN":"JTEFU5JR0P5288653",
@@ -4256,7 +4100,7 @@
     "Dealer Price":42615.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Universal Toyota"
   },
   {
@@ -4402,18 +4246,6 @@
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Al Hendrickson Toyota"
-  },
-  {
-    "VIN":"JTEFU5JR1P5288435",
-    "Model":"SR5 Premium",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":42615,
-    "Dealer Price":42615.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Mike Calvert Toyota"
   },
   {
     "VIN":"JTEFU5JR1P5288967",
@@ -4628,7 +4460,7 @@
     "Dealer Price":42615.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Sterling McCall Toyota Fort Bend"
   },
   {
@@ -4702,18 +4534,6 @@
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"John Eagle Sport City Toyota"
-  },
-  {
-    "VIN":"JTEFU5JR2P5289061",
-    "Model":"SR5 Premium",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":42615,
-    "Dealer Price":42615.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"AutoNation Toyota Fort Myers"
   },
   {
     "VIN":"JTEFU5JR2P5289108",
@@ -4860,18 +4680,6 @@
     "Dealer":"Arlington Toyota"
   },
   {
-    "VIN":"JTEFU5JR3P5288971",
-    "Model":"SR5 Premium",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":42615,
-    "Dealer Price":46505.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Lone Star Toyota of Lewisville"
-  },
-  {
     "VIN":"JTEFU5JR3P5289053",
     "Model":"SR5 Premium",
     "Year":2023,
@@ -4930,18 +4738,6 @@
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Sterling McCall Toyota"
-  },
-  {
-    "VIN":"JTEFU5JR3P5289358",
-    "Model":"SR5 Premium",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":42615,
-    "Dealer Price":42615.0,
-    "Shipping Status":"Factory to port",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Toyota of Clermont"
   },
   {
     "VIN":"JTEFU5JR3P5289411",
@@ -5021,7 +4817,7 @@
     "Year":2023,
     "Color":"Ice Cap",
     "Base MSRP":42615,
-    "Dealer Price":42615.0,
+    "Dealer Price":47594.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
     "Pre-Sold":"No",
@@ -5134,18 +4930,6 @@
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Cannon Toyota of Moss Point"
-  },
-  {
-    "VIN":"JTEFU5JR5P5288406",
-    "Model":"SR5 Premium",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":42615,
-    "Dealer Price":42615.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"AutoNation Toyota Winter Park"
   },
   {
     "VIN":"JTEFU5JR5P5288616",
@@ -5357,11 +5141,11 @@
     "Year":2023,
     "Color":"Classic Silver Metallic",
     "Base MSRP":42615,
-    "Dealer Price":44110.0,
+    "Dealer Price":42615.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
     "Pre-Sold":"No",
-    "Dealer":"Price LeBlanc Toyota"
+    "Dealer":"Toyota of Jackson"
   },
   {
     "VIN":"JTEFU5JR5P5289507",
@@ -5422,18 +5206,6 @@
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Doc's Toyota"
-  },
-  {
-    "VIN":"JTEFU5JR6P5288382",
-    "Model":"SR5 Premium",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":42615,
-    "Dealer Price":42615.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Courvelle Toyota"
   },
   {
     "VIN":"JTEFU5JR6P5288592",
@@ -5585,11 +5357,11 @@
     "Year":2023,
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":42615,
-    "Dealer Price":44110.0,
+    "Dealer Price":42615.0,
     "Shipping Status":"At dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
-    "Dealer":"Price LeBlanc Toyota"
+    "Dealer":"Toyota of Slidell"
   },
   {
     "VIN":"JTEFU5JR7P5288617",
@@ -5648,7 +5420,7 @@
     "Dealer Price":44410.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Universal Toyota"
   },
   {
@@ -6252,18 +6024,6 @@
     "Dealer":"Toyota of Gastonia"
   },
   {
-    "VIN":"JTEFU5JRXP5288661",
-    "Model":"SR5 Premium",
-    "Year":2023,
-    "Color":"Classic Silver Metallic",
-    "Base MSRP":42615,
-    "Dealer Price":42615.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Sterling McCall Toyota"
-  },
-  {
     "VIN":"JTEFU5JRXP5288840",
     "Model":"SR5 Premium",
     "Year":2023,
@@ -6272,7 +6032,7 @@
     "Dealer Price":42615.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Landers Toyota"
   },
   {
@@ -6294,7 +6054,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":42615,
     "Dealer Price":45210.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"Available",
     "Pre-Sold":"Yes",
     "Dealer":"Cowboy Toyota"
@@ -6463,21 +6223,9 @@
     "Base MSRP":50825,
     "Dealer Price":50825.0,
     "Shipping Status":"At dealer",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Germain Toyota of Columbus"
-  },
-  {
-    "VIN":"JTEKU5JR0P6128927",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Midnight Black Metallic",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Priority Toyota"
   },
   {
     "VIN":"JTEKU5JR0P6130158",
@@ -6502,18 +6250,6 @@
     "Hold Status":null,
     "Pre-Sold":"Yes",
     "Dealer":"Findlay Toyota Flagstaff"
-  },
-  {
-    "VIN":"JTEKU5JR0P6130760",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Midnight Black Metallic",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Ken Nelson Toyota"
   },
   {
     "VIN":"JTEKU5JR0P6130824",
@@ -6678,7 +6414,7 @@
     "Color":"Blizzard Pearl",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Earnhardt Toyota"
@@ -6802,18 +6538,6 @@
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Toyota of Ashland"
-  },
-  {
-    "VIN":"JTEKU5JR0P6136588",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Blizzard Pearl",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":null,
-    "Pre-Sold":"Yes",
-    "Dealer":"Avondale Toyota"
   },
   {
     "VIN":"JTEKU5JR0P6136607",
@@ -6946,18 +6670,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Shelor Toyota"
-  },
-  {
-    "VIN":"JTEKU5JR0P6137806",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Midnight Black Metallic",
-    "Base MSRP":50825,
-    "Dealer Price":null,
-    "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Beaver Toyota of Cumming"
   },
   {
     "VIN":"JTEKU5JR0P6137899",
@@ -7111,7 +6823,7 @@
     "Base MSRP":50825,
     "Dealer Price":50825.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":null,
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Hall Toyota Virginia Beach"
   },
@@ -7425,7 +7137,7 @@
     "Shipping Status":"At dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
-    "Dealer":"DARCARS Toyota of Baltimore"
+    "Dealer":"DARCARS Toyota of Frederick"
   },
   {
     "VIN":"JTEKU5JR1P6132162",
@@ -7522,18 +7234,6 @@
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Russ Darrow Toyota"
-  },
-  {
-    "VIN":"JTEKU5JR1P6134817",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Blizzard Pearl",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Capitol Toyota of Salem"
   },
   {
     "VIN":"JTEKU5JR1P6134848",
@@ -7716,18 +7416,6 @@
     "Dealer":"Tegeler Toyota"
   },
   {
-    "VIN":"JTEKU5JR1P6137300",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Performance Toyota Bountiful"
-  },
-  {
     "VIN":"JTEKU5JR1P6137409",
     "Model":"Limited",
     "Year":2023,
@@ -7794,7 +7482,7 @@
     "Color":"Blizzard Pearl",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Carson City Toyota"
@@ -8022,7 +7710,7 @@
     "Color":"Nautical Blue Metallic",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Wilde Toyota"
@@ -8034,7 +7722,7 @@
     "Color":"Classic Silver Metallic",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Crown Toyota"
@@ -8070,7 +7758,7 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Crown Toyota"
@@ -8228,7 +7916,7 @@
     "Dealer Price":50825.0,
     "Shipping Status":"At dealer",
     "Hold Status":"Available",
-    "Pre-Sold":"Yes",
+    "Pre-Sold":"No",
     "Dealer":"Toyota of Brookhaven"
   },
   {
@@ -8266,18 +7954,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Mark Toyota of Plover"
-  },
-  {
-    "VIN":"JTEKU5JR2P6130730",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Blizzard Pearl",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Toyota of York"
   },
   {
     "VIN":"JTEKU5JR2P6131277",
@@ -8828,7 +8504,7 @@
     "Dealer Price":50825.0,
     "Shipping Status":"Port to dealer",
     "Hold Status":null,
-    "Pre-Sold":"Yes",
+    "Pre-Sold":"No",
     "Dealer":"Romano Toyota"
   },
   {
@@ -8863,7 +8539,7 @@
     "Base MSRP":50825,
     "Dealer Price":50825.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Kalispell Toyota"
   },
@@ -8946,7 +8622,7 @@
     "Color":"Blizzard Pearl",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Carson City Toyota"
@@ -8969,10 +8645,10 @@
     "Year":2023,
     "Color":"Midnight Black Metallic",
     "Base MSRP":50825,
-    "Dealer Price":50825.0,
+    "Dealer Price":52950.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
-    "Pre-Sold":"Yes",
+    "Pre-Sold":"No",
     "Dealer":"Principle Toyota of Hernando"
   },
   {
@@ -8996,7 +8672,7 @@
     "Dealer Price":50825.0,
     "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Rochester Toyota"
   },
   {
@@ -9114,7 +8790,7 @@
     "Color":"Blizzard Pearl",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"Yes",
     "Dealer":"Lithia Toyota of Klamath Falls"
@@ -9226,18 +8902,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Rochester Toyota"
-  },
-  {
-    "VIN":"JTEKU5JR3P6125729",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Blizzard Pearl",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"Yes",
-    "Dealer":"Butler Toyota Jacksonville"
   },
   {
     "VIN":"JTEKU5JR3P6126511",
@@ -9475,7 +9139,7 @@
     "Base MSRP":50825,
     "Dealer Price":50825.0,
     "Shipping Status":"At dealer",
-    "Hold Status":null,
+    "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Glen Motors, Inc."
   },
@@ -9522,7 +9186,7 @@
     "Color":"Blizzard Pearl",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Big Two Toyota of Chandler"
@@ -9548,7 +9212,7 @@
     "Dealer Price":50825.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Milton Martin Toyota"
   },
   {
@@ -9576,18 +9240,6 @@
     "Dealer":"Nelson Toyota"
   },
   {
-    "VIN":"JTEKU5JR3P6134365",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Midnight Black Metallic",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Nalley Toyota Union City"
-  },
-  {
     "VIN":"JTEKU5JR3P6134382",
     "Model":"Limited",
     "Year":2023,
@@ -9600,18 +9252,6 @@
     "Dealer":"Priority Toyota"
   },
   {
-    "VIN":"JTEKU5JR3P6134396",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Blizzard Pearl",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Ken Garff Toyota Cheyenne"
-  },
-  {
     "VIN":"JTEKU5JR3P6134639",
     "Model":"Limited",
     "Year":2023,
@@ -9619,7 +9259,7 @@
     "Base MSRP":50825,
     "Dealer Price":50825.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":"DealerHold",
+    "Hold Status":"Available",
     "Pre-Sold":"Yes",
     "Dealer":"Waldorf Toyota"
   },
@@ -9642,7 +9282,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Labadie Toyota"
@@ -10253,7 +9893,7 @@
     "Year":2023,
     "Color":"Blizzard Pearl",
     "Base MSRP":50825,
-    "Dealer Price":null,
+    "Dealer Price":50825.0,
     "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
@@ -10428,18 +10068,6 @@
     "Dealer":"Toyota of Bowling Green"
   },
   {
-    "VIN":"JTEKU5JR4P6134147",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Nautical Blue Metallic",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Toyota of Woodbridge"
-  },
-  {
     "VIN":"JTEKU5JR4P6134231",
     "Model":"Limited",
     "Year":2023,
@@ -10582,18 +10210,6 @@
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Jerry's Toyota"
-  },
-  {
-    "VIN":"JTEKU5JR4P6135489",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Nautical Blue Metallic",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Andy Mohr Toyota"
   },
   {
     "VIN":"JTEKU5JR4P6135556",
@@ -10950,7 +10566,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Ed Martin Toyota"
@@ -11047,7 +10663,7 @@
     "Base MSRP":50825,
     "Dealer Price":50825.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":"DealerHold",
+    "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Toyota of Puyallup"
   },
@@ -11268,18 +10884,6 @@
     "Dealer":"Durango Toyota"
   },
   {
-    "VIN":"JTEKU5JR5P6132844",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Blizzard Pearl",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"Yes",
-    "Dealer":"Michael's Toyota of Bellevue"
-  },
-  {
     "VIN":"JTEKU5JR5P6132892",
     "Model":"Limited",
     "Year":2023,
@@ -11322,7 +10926,7 @@
     "Color":"Blizzard Pearl",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Right Toyota"
@@ -11544,18 +11148,6 @@
     "Dealer":"Pat Lobb Toyota of McKinney"
   },
   {
-    "VIN":"JTEKU5JR5P6136022",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":50825,
-    "Dealer Price":null,
-    "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Folsom Lake Toyota"
-  },
-  {
     "VIN":"JTEKU5JR5P6136098",
     "Model":"Limited",
     "Year":2023,
@@ -11736,18 +11328,6 @@
     "Dealer":"Ira Toyota of Manchester"
   },
   {
-    "VIN":"JTEKU5JR5P6138529",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Bighorn Toyota"
-  },
-  {
     "VIN":"JTEKU5JR5P6138563",
     "Model":"Limited",
     "Year":2023,
@@ -11814,7 +11394,7 @@
     "Color":"Blizzard Pearl",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Kerry Toyota"
@@ -11988,6 +11568,18 @@
     "Dealer":"Kari Toyota"
   },
   {
+    "VIN":"JTEKU5JR6P6127877",
+    "Model":"Limited",
+    "Year":2023,
+    "Color":"Midnight Black Metallic",
+    "Base MSRP":50825,
+    "Dealer Price":50825.0,
+    "Shipping Status":"At dealer",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"Yes",
+    "Dealer":"Romano Toyota"
+  },
+  {
     "VIN":"JTEKU5JR6P6128110",
     "Model":"Limited",
     "Year":2023,
@@ -12072,18 +11664,6 @@
     "Dealer":"Baierl Toyota"
   },
   {
-    "VIN":"JTEKU5JR6P6131539",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Blizzard Pearl",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Larry H. Miller Toyota Murray"
-  },
-  {
     "VIN":"JTEKU5JR6P6131637",
     "Model":"Limited",
     "Year":2023,
@@ -12130,30 +11710,6 @@
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"L & S Toyota of Beckley"
-  },
-  {
-    "VIN":"JTEKU5JR6P6132190",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Barcelona Red Metallic",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Atlanta Toyota"
-  },
-  {
-    "VIN":"JTEKU5JR6P6132237",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Classic Silver Metallic",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Bighorn Toyota"
   },
   {
     "VIN":"JTEKU5JR6P6132674",
@@ -12524,7 +12080,7 @@
     "Dealer Price":50825.0,
     "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
-    "Pre-Sold":"Yes",
+    "Pre-Sold":"No",
     "Dealer":"Stevinson Toyota East"
   },
   {
@@ -12607,7 +12163,7 @@
     "Base MSRP":50825,
     "Dealer Price":50825.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":null,
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Big Two Toyota of Chandler"
   },
@@ -12727,8 +12283,8 @@
     "Base MSRP":50825,
     "Dealer Price":50825.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":null,
-    "Pre-Sold":"No",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"Yes",
     "Dealer":"Jeff Wyler Toyota of Clarksville"
   },
   {
@@ -12789,7 +12345,7 @@
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
     "Pre-Sold":"No",
-    "Dealer":"Kirk Toyota"
+    "Dealer":"Toyota of Brookhaven"
   },
   {
     "VIN":"JTEKU5JR6P6140581",
@@ -12810,7 +12366,7 @@
     "Color":"Blizzard Pearl",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Toyota of Somerset"
@@ -12984,18 +12540,6 @@
     "Dealer":"Spartan Toyota"
   },
   {
-    "VIN":"JTEKU5JR7P6130531",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Blizzard Pearl",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Western Slope Toyota"
-  },
-  {
     "VIN":"JTEKU5JR7P6130612",
     "Model":"Limited",
     "Year":2023,
@@ -13068,18 +12612,6 @@
     "Dealer":"Graham Toyota"
   },
   {
-    "VIN":"JTEKU5JR7P6131789",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Midnight Black Metallic",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Koons Tysons Toyota"
-  },
-  {
     "VIN":"JTEKU5JR7P6131890",
     "Model":"Limited",
     "Year":2023,
@@ -13092,25 +12624,13 @@
     "Dealer":"Burdick Toyota"
   },
   {
-    "VIN":"JTEKU5JR7P6131940",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Nautical Blue Metallic",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Pedersen Toyota, Ltd."
-  },
-  {
     "VIN":"JTEKU5JR7P6132425",
     "Model":"Limited",
     "Year":2023,
     "Color":"Nautical Blue Metallic",
     "Base MSRP":50825,
     "Dealer Price":52320.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Sterling McCall Toyota"
@@ -13126,18 +12646,6 @@
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Koons Tysons Toyota"
-  },
-  {
-    "VIN":"JTEKU5JR7P6132666",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Rochester Toyota"
   },
   {
     "VIN":"JTEKU5JR7P6132800",
@@ -13376,7 +12884,7 @@
     "Dealer Price":52623.0,
     "Shipping Status":"Port to dealer",
     "Hold Status":null,
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Toyota of Portland on Broadway"
   },
   {
@@ -13794,7 +13302,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Rusty Wallace Toyota"
@@ -14035,7 +13543,7 @@
     "Base MSRP":50825,
     "Dealer Price":50825.0,
     "Shipping Status":"At dealer",
-    "Hold Status":null,
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Del Toyota"
   },
@@ -14119,7 +13627,7 @@
     "Base MSRP":50825,
     "Dealer Price":50825.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Bighorn Toyota"
   },
@@ -14681,11 +14189,11 @@
     "Year":2023,
     "Color":"Midnight Black Metallic",
     "Base MSRP":50825,
-    "Dealer Price":50825.0,
+    "Dealer Price":null,
     "Shipping Status":"Factory to port",
-    "Hold Status":null,
+    "Hold Status":"Available",
     "Pre-Sold":"No",
-    "Dealer":"Palm Beach Toyota"
+    "Dealer":"Al Hendrickson Toyota"
   },
   {
     "VIN":"JTEKU5JR8P6138539",
@@ -14778,7 +14286,7 @@
     "Color":"Blizzard Pearl",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Findlay Toyota Spokane"
@@ -14952,6 +14460,18 @@
     "Dealer":"Tansky Sawmill Toyota"
   },
   {
+    "VIN":"JTEKU5JR8P6142946",
+    "Model":"Limited",
+    "Year":2023,
+    "Color":"Magnetic Gray Metallic",
+    "Base MSRP":50825,
+    "Dealer Price":50825.0,
+    "Shipping Status":"Port to dealer",
+    "Hold Status":"Available",
+    "Pre-Sold":"Yes",
+    "Dealer":"Rogers Toyota"
+  },
+  {
     "VIN":"JTEKU5JR8P6142977",
     "Model":"Limited",
     "Year":2023,
@@ -14959,7 +14479,7 @@
     "Base MSRP":50825,
     "Dealer Price":50825.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Kings Toyota"
   },
@@ -14982,7 +14502,7 @@
     "Color":"Blizzard Pearl",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Frankfort Toyota"
@@ -15072,18 +14592,6 @@
     "Dealer":"Nashville Toyota North"
   },
   {
-    "VIN":"JTEKU5JR9P6128912",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Blizzard Pearl",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Gregg Young Toyota Ottumwa"
-  },
-  {
     "VIN":"JTEKU5JR9P6129820",
     "Model":"Limited",
     "Year":2023,
@@ -15114,7 +14622,7 @@
     "Color":"Classic Silver Metallic",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Advantage Toyota"
@@ -15222,7 +14730,7 @@
     "Color":"Nautical Blue Metallic",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"McGeorge Toyota"
@@ -15330,7 +14838,7 @@
     "Color":"Blizzard Pearl",
     "Base MSRP":50825,
     "Dealer Price":52720.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Jim Norton Toyota of Oklahoma City"
@@ -15414,7 +14922,7 @@
     "Color":"Blizzard Pearl",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Toyota of Santa Fe"
@@ -15852,25 +15360,13 @@
     "Dealer":"Toyota of Renton"
   },
   {
-    "VIN":"JTEKU5JR9P6140607",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Nautical Blue Metallic",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Bighorn Toyota"
-  },
-  {
     "VIN":"JTEKU5JR9P6140669",
     "Model":"Limited",
     "Year":2023,
     "Color":"Blizzard Pearl",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Dan Deery Toyota"
@@ -16092,18 +15588,6 @@
     "Dealer":"Jay Wolfe Toyota of West County"
   },
   {
-    "VIN":"JTEKU5JRXP6127574",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Classic Silver Metallic",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"McGrath Elmhurst Toyota"
-  },
-  {
     "VIN":"JTEKU5JRXP6127834",
     "Model":"Limited",
     "Year":2023,
@@ -16200,18 +15684,6 @@
     "Dealer":"Metro Toyota"
   },
   {
-    "VIN":"JTEKU5JRXP6131298",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Nautical Blue Metallic",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Bill Kidd's Timonium Toyota"
-  },
-  {
     "VIN":"JTEKU5JRXP6131463",
     "Model":"Limited",
     "Year":2023,
@@ -16222,18 +15694,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Dan Cava's Toyota World"
-  },
-  {
-    "VIN":"JTEKU5JRXP6132225",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Blizzard Pearl",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Groove Toyota"
   },
   {
     "VIN":"JTEKU5JRXP6132273",
@@ -16278,7 +15738,7 @@
     "Color":"Blizzard Pearl",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Earnhardt Toyota"
@@ -16314,7 +15774,7 @@
     "Color":"Nautical Blue Metallic",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"McGeorge Toyota"
@@ -16416,18 +15876,6 @@
     "Dealer":"Stevinson Toyota East"
   },
   {
-    "VIN":"JTEKU5JRXP6135108",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"AutoNation Toyota Las Vegas"
-  },
-  {
     "VIN":"JTEKU5JRXP6135156",
     "Model":"Limited",
     "Year":2023,
@@ -16498,6 +15946,18 @@
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Keith Pierson Toyota"
+  },
+  {
+    "VIN":"JTEKU5JRXP6136176",
+    "Model":"Limited",
+    "Year":2023,
+    "Color":"Blizzard Pearl",
+    "Base MSRP":50825,
+    "Dealer Price":50825.0,
+    "Shipping Status":"At dealer",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"No",
+    "Dealer":"Groove Toyota"
   },
   {
     "VIN":"JTEKU5JRXP6136226",
@@ -16680,18 +16140,6 @@
     "Dealer":"Safford Brown Toyota Glen Burnie"
   },
   {
-    "VIN":"JTEKU5JRXP6138025",
-    "Model":"Limited",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":50825,
-    "Dealer Price":50825.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Parker Toyota"
-  },
-  {
     "VIN":"JTEKU5JRXP6138039",
     "Model":"Limited",
     "Year":2023,
@@ -16830,7 +16278,7 @@
     "Color":"Classic Silver Metallic",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"Yes",
     "Dealer":"Johnson City Toyota"
@@ -16843,7 +16291,7 @@
     "Base MSRP":50825,
     "Dealer Price":50825.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Kings Toyota"
   },
@@ -16914,7 +16362,7 @@
     "Color":"Barcelona Red Metallic",
     "Base MSRP":50825,
     "Dealer Price":50825.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Toyota of Ashland"
@@ -17160,16 +16608,16 @@
     "Dealer":"Keith Pierson Toyota"
   },
   {
-    "VIN":"JTELU5JR0P6131699",
+    "VIN":"JTELU5JR0P6131928",
     "Model":"TRD Pro",
     "Year":2023,
     "Color":"Ice Cap",
     "Base MSRP":54020,
     "Dealer Price":54020.0,
-    "Shipping Status":"At dealer",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
-    "Dealer":"Sloane Toyota of Glenside"
+    "Dealer":"Stevens Creek Toyota"
   },
   {
     "VIN":"JTELU5JR0P6132058",
@@ -17191,7 +16639,7 @@
     "Base MSRP":54020,
     "Dealer Price":54020.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Elko Toyota"
   },
@@ -17261,7 +16709,7 @@
     "Year":2023,
     "Color":"Midnight Black Metallic",
     "Base MSRP":54020,
-    "Dealer Price":54020.0,
+    "Dealer Price":66508.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
@@ -17345,9 +16793,9 @@
     "Year":2023,
     "Color":"Midnight Black Metallic",
     "Base MSRP":54020,
-    "Dealer Price":54020.0,
+    "Dealer Price":null,
     "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
+    "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Toyota of Dothan"
   },
@@ -17575,7 +17023,7 @@
     "Base MSRP":54020,
     "Dealer Price":54020.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":null,
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Lithia Toyota"
   },
@@ -17982,7 +17430,7 @@
     "Color":"Solar Octane",
     "Base MSRP":54020,
     "Dealer Price":54020.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Colonial Toyota"
@@ -18010,18 +17458,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Westchester Toyota"
-  },
-  {
-    "VIN":"JTELU5JR1P6135177",
-    "Model":"TRD Pro",
-    "Year":2023,
-    "Color":"Solar Octane",
-    "Base MSRP":54020,
-    "Dealer Price":54020.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Limbaugh Toyota"
   },
   {
     "VIN":"JTELU5JR1P6135244",
@@ -18118,6 +17554,18 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Toyota of Woodbridge"
+  },
+  {
+    "VIN":"JTELU5JR1P6136510",
+    "Model":"TRD Pro",
+    "Year":2023,
+    "Color":"Ice Cap",
+    "Base MSRP":54020,
+    "Dealer Price":55615.0,
+    "Shipping Status":"Factory to port",
+    "Hold Status":"Available",
+    "Pre-Sold":"No",
+    "Dealer":"Alexandria Toyota"
   },
   {
     "VIN":"JTELU5JR1P6136880",
@@ -18439,7 +17887,7 @@
     "Base MSRP":53270,
     "Dealer Price":null,
     "Shipping Status":"At dealer",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Smart Toyota"
   },
@@ -18708,18 +18156,6 @@
     "Dealer":"Westside Toyota"
   },
   {
-    "VIN":"JTELU5JR2P6135642",
-    "Model":"TRD Pro",
-    "Year":2023,
-    "Color":"Solar Octane",
-    "Base MSRP":54020,
-    "Dealer Price":null,
-    "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"TeamOne Toyota of Gadsden"
-  },
-  {
     "VIN":"JTELU5JR2P6135933",
     "Model":"TRD Pro",
     "Year":2023,
@@ -18838,18 +18274,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Victory Toyota"
-  },
-  {
-    "VIN":"JTELU5JR2P6136919",
-    "Model":"TRD Pro",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":54020,
-    "Dealer Price":54020.0,
-    "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Panama City Toyota"
   },
   {
     "VIN":"JTELU5JR2P6137052",
@@ -19158,8 +18582,8 @@
     "Color":"Ice Cap",
     "Base MSRP":54020,
     "Dealer Price":54020.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":"DealerHold",
+    "Shipping Status":"At dealer",
+    "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Toyota of Santa Fe"
   },
@@ -19196,7 +18620,7 @@
     "Dealer Price":54020.0,
     "Shipping Status":"At dealer",
     "Hold Status":null,
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Team Toyota"
   },
   {
@@ -19210,18 +18634,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Arlington Toyota"
-  },
-  {
-    "VIN":"JTELU5JR3P6131003",
-    "Model":"TRD Pro",
-    "Year":2023,
-    "Color":"Solar Octane",
-    "Base MSRP":54020,
-    "Dealer Price":54020.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Don McGill Toyota of Katy"
   },
   {
     "VIN":"JTELU5JR3P6131065",
@@ -19266,7 +18678,7 @@
     "Color":"Ice Cap",
     "Base MSRP":54020,
     "Dealer Price":54020.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Ball Toyota of Charleston"
@@ -19282,18 +18694,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Mid City Toyota"
-  },
-  {
-    "VIN":"JTELU5JR3P6133673",
-    "Model":"TRD Pro",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":54020,
-    "Dealer Price":54020.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Toyota of Downtown LA"
   },
   {
     "VIN":"JTELU5JR3P6133768",
@@ -19354,18 +18754,6 @@
     "Hold Status":null,
     "Pre-Sold":"Yes",
     "Dealer":"Hartford Toyota"
-  },
-  {
-    "VIN":"JTELU5JR3P6134855",
-    "Model":"TRD Pro",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":54020,
-    "Dealer Price":54020.0,
-    "Shipping Status":"Factory to port",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"Yes",
-    "Dealer":"Ardmore Toyota"
   },
   {
     "VIN":"JTELU5JR3P6135021",
@@ -19474,18 +18862,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Temecula Valley Toyota"
-  },
-  {
-    "VIN":"JTELU5JR3P6136749",
-    "Model":"TRD Pro",
-    "Year":2023,
-    "Color":"Midnight Black Metallic",
-    "Base MSRP":54020,
-    "Dealer Price":60015.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Rodland Toyota"
   },
   {
     "VIN":"JTELU5JR3P6136878",
@@ -20544,18 +19920,6 @@
     "Dealer":"Bennett Toyota of Lebanon"
   },
   {
-    "VIN":"JTELU5JR5P6117152",
-    "Model":"TRD Pro",
-    "Year":2023,
-    "Color":"Solar Octane",
-    "Base MSRP":53270,
-    "Dealer Price":62260.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Andrew Toyota"
-  },
-  {
     "VIN":"JTELU5JR5P6129379",
     "Model":"TRD Pro",
     "Year":2023,
@@ -20791,7 +20155,7 @@
     "Base MSRP":54020,
     "Dealer Price":54020.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Romano Toyota"
   },
@@ -20839,7 +20203,7 @@
     "Base MSRP":54020,
     "Dealer Price":54020.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":"DealerHold",
+    "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Rolling Hills Toyota"
   },
@@ -21140,7 +20504,7 @@
     "Dealer Price":54020.0,
     "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Markquart Toyota"
   },
   {
@@ -21306,7 +20670,7 @@
     "Color":"Ice Cap",
     "Base MSRP":54020,
     "Dealer Price":54020.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Carson City Toyota"
@@ -21931,7 +21295,7 @@
     "Base MSRP":54020,
     "Dealer Price":54020.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Fowler Toyota of Tulsa"
   },
@@ -22174,18 +21538,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Fred Haas Toyota Country"
-  },
-  {
-    "VIN":"JTELU5JR7P6135748",
-    "Model":"TRD Pro",
-    "Year":2023,
-    "Color":"Midnight Black Metallic",
-    "Base MSRP":54020,
-    "Dealer Price":54020.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"Yes",
-    "Dealer":"Continental Toyota"
   },
   {
     "VIN":"JTELU5JR7P6135846",
@@ -22578,7 +21930,7 @@
     "Color":"Ice Cap",
     "Base MSRP":54020,
     "Dealer Price":55915.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Jim Norton Toyota of Oklahoma City"
@@ -22592,7 +21944,7 @@
     "Dealer Price":54020.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Toyota of Denton"
   },
   {
@@ -22615,7 +21967,7 @@
     "Base MSRP":54020,
     "Dealer Price":54020.0,
     "Shipping Status":"At dealer",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Gates Toyota"
   },
@@ -22722,7 +22074,7 @@
     "Color":"Solar Octane",
     "Base MSRP":54020,
     "Dealer Price":60815.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"Available",
     "Pre-Sold":"Yes",
     "Dealer":"Universal Toyota"
@@ -22796,7 +22148,7 @@
     "Dealer Price":54020.0,
     "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Precision Toyota of Tucson"
   },
   {
@@ -23280,6 +22632,18 @@
     "Dealer":"Fox Toyota"
   },
   {
+    "VIN":"JTELU5JR9P6127540",
+    "Model":"TRD Pro",
+    "Year":2023,
+    "Color":"Midnight Black Metallic",
+    "Base MSRP":54020,
+    "Dealer Price":54020.0,
+    "Shipping Status":"At dealer",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"No",
+    "Dealer":"Visalia Toyota"
+  },
+  {
     "VIN":"JTELU5JR9P6127747",
     "Model":"TRD Pro",
     "Year":2023,
@@ -23364,18 +22728,6 @@
     "Dealer":"Roseville Toyota"
   },
   {
-    "VIN":"JTELU5JR9P6130454",
-    "Model":"TRD Pro",
-    "Year":2023,
-    "Color":"Solar Octane",
-    "Base MSRP":54020,
-    "Dealer Price":54020.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"Yes",
-    "Dealer":"Earnhardt Toyota"
-  },
-  {
     "VIN":"JTELU5JR9P6131507",
     "Model":"TRD Pro",
     "Year":2023,
@@ -23429,7 +22781,7 @@
     "Year":2023,
     "Color":"Ice Cap",
     "Base MSRP":54020,
-    "Dealer Price":54020.0,
+    "Dealer Price":64020.0,
     "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
@@ -23446,18 +22798,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Huntsville Toyota"
-  },
-  {
-    "VIN":"JTELU5JR9P6133371",
-    "Model":"TRD Pro",
-    "Year":2023,
-    "Color":"Solar Octane",
-    "Base MSRP":54020,
-    "Dealer Price":54020.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"Yes",
-    "Dealer":"AutoNation Toyota Cerritos"
   },
   {
     "VIN":"JTELU5JR9P6133404",
@@ -23482,18 +22822,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Toyota of Santa Fe"
-  },
-  {
-    "VIN":"JTELU5JR9P6134004",
-    "Model":"TRD Pro",
-    "Year":2023,
-    "Color":"Solar Octane",
-    "Base MSRP":54020,
-    "Dealer Price":54020.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Herb Chambers Toyota of Auburn"
   },
   {
     "VIN":"JTELU5JR9P6134441",
@@ -24000,6 +23328,18 @@
     "Dealer":"Iron Trail Toyota"
   },
   {
+    "VIN":"JTELU5JRXP6129040",
+    "Model":"TRD Pro",
+    "Year":2023,
+    "Color":"Midnight Black Metallic",
+    "Base MSRP":54020,
+    "Dealer Price":54020.0,
+    "Shipping Status":"Port to dealer",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"Yes",
+    "Dealer":"Stevens Creek Toyota"
+  },
+  {
     "VIN":"JTELU5JRXP6129166",
     "Model":"TRD Pro",
     "Year":2023,
@@ -24046,18 +23386,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Rusty Drewing Toyota"
-  },
-  {
-    "VIN":"JTELU5JRXP6130334",
-    "Model":"TRD Pro",
-    "Year":2023,
-    "Color":"Solar Octane",
-    "Base MSRP":54020,
-    "Dealer Price":54020.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"Yes",
-    "Dealer":"Williams Toyota of Sayre"
   },
   {
     "VIN":"JTELU5JRXP6130656",
@@ -24130,18 +23458,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Victory Toyota"
-  },
-  {
-    "VIN":"JTELU5JRXP6131791",
-    "Model":"TRD Pro",
-    "Year":2023,
-    "Color":"Solar Octane",
-    "Base MSRP":54020,
-    "Dealer Price":54020.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Brent Brown Toyota"
   },
   {
     "VIN":"JTELU5JRXP6132245",
@@ -24738,7 +24054,7 @@
     "Color":"Ice Cap",
     "Base MSRP":41430,
     "Dealer Price":null,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Buckhannon Toyota"
@@ -24762,7 +24078,7 @@
     "Color":"Nautical Blue Metallic",
     "Base MSRP":41430,
     "Dealer Price":41430.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Priority Toyota"
@@ -24894,7 +24210,7 @@
     "Color":"Ice Cap",
     "Base MSRP":41430,
     "Dealer Price":41430.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Bighorn Toyota"
@@ -24979,7 +24295,7 @@
     "Base MSRP":41430,
     "Dealer Price":41430.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"West Herr Toyota of Canandaigua"
   },
@@ -25087,9 +24403,9 @@
     "Base MSRP":41430,
     "Dealer Price":41430.0,
     "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
+    "Hold Status":"Available",
     "Pre-Sold":"No",
-    "Dealer":"Bayside Toyota"
+    "Dealer":"Koons Easton Toyota"
   },
   {
     "VIN":"JTEMU5JR1P6129240",
@@ -25135,9 +24451,9 @@
     "Base MSRP":41430,
     "Dealer Price":41430.0,
     "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"DARCARS Toyota"
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"Yes",
+    "Dealer":"CMA's Toyota of Martinsburg"
   },
   {
     "VIN":"JTEMU5JR1P6132266",
@@ -25243,7 +24559,7 @@
     "Base MSRP":41430,
     "Dealer Price":49159.0,
     "Shipping Status":"At dealer",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Longo Toyota"
   },
@@ -25330,18 +24646,6 @@
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Route 22 Toyota"
-  },
-  {
-    "VIN":"JTEMU5JR1P6136611",
-    "Model":"SR5",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":41430,
-    "Dealer Price":41430.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":null,
-    "Pre-Sold":"Yes",
-    "Dealer":"Avondale Toyota"
   },
   {
     "VIN":"JTEMU5JR1P6136852",
@@ -25536,18 +24840,6 @@
     "Dealer":"Larry H. Miller American Toyota Albuquerque"
   },
   {
-    "VIN":"JTEMU5JR2P6126783",
-    "Model":"SR5",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":41430,
-    "Dealer Price":41430.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Toyota of Manhattan"
-  },
-  {
     "VIN":"JTEMU5JR2P6129246",
     "Model":"SR5",
     "Year":2023,
@@ -25601,7 +24893,7 @@
     "Year":2023,
     "Color":"Barcelona Red Metallic",
     "Base MSRP":41430,
-    "Dealer Price":41430.0,
+    "Dealer Price":45229.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
     "Pre-Sold":"No",
@@ -25630,18 +24922,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Sheehy Toyota of Stafford"
-  },
-  {
-    "VIN":"JTEMU5JR2P6133166",
-    "Model":"SR5",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":41430,
-    "Dealer Price":41430.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Sansone Toyota"
   },
   {
     "VIN":"JTEMU5JR2P6133264",
@@ -25915,8 +25195,8 @@
     "Base MSRP":41430,
     "Dealer Price":43809.0,
     "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"Yes",
     "Dealer":"Gullo Toyota of Conroe"
   },
   {
@@ -25926,7 +25206,7 @@
     "Color":"Ice Cap",
     "Base MSRP":41430,
     "Dealer Price":41430.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Mike Shaw Toyota"
@@ -26376,28 +25656,16 @@
     "Dealer":"Koch Route 2 Toyota"
   },
   {
-    "VIN":"JTEMU5JR4P6130690",
+    "VIN":"JTEMU5JR4P6131211",
     "Model":"SR5",
     "Year":2023,
     "Color":"Ice Cap",
     "Base MSRP":41430,
     "Dealer Price":41430.0,
     "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Loyalty Toyota"
-  },
-  {
-    "VIN":"JTEMU5JR4P6130740",
-    "Model":"SR5",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":41430,
-    "Dealer Price":41430.0,
-    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
-    "Dealer":"Western Slope Toyota"
+    "Dealer":"Sandia Toyota"
   },
   {
     "VIN":"JTEMU5JR4P6131886",
@@ -26540,7 +25808,7 @@
     "Dealer Price":41430.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Family Toyota of Burleson"
   },
   {
@@ -26940,16 +26208,16 @@
     "Dealer":"Fox Toyota of El Paso"
   },
   {
-    "VIN":"JTEMU5JR5P6130746",
+    "VIN":"JTEMU5JR5P6130567",
     "Model":"SR5",
     "Year":2023,
-    "Color":"Midnight Black Metallic",
+    "Color":"Ice Cap",
     "Base MSRP":41430,
     "Dealer Price":41430.0,
     "Shipping Status":"At dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
-    "Dealer":"Towne Toyota"
+    "Dealer":"Gale Toyota, Inc."
   },
   {
     "VIN":"JTEMU5JR5P6131198",
@@ -26959,7 +26227,7 @@
     "Base MSRP":41430,
     "Dealer Price":41430.0,
     "Shipping Status":"At dealer",
-    "Hold Status":null,
+    "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Checkered Flag Toyota"
   },
@@ -27018,7 +26286,7 @@
     "Color":"Ice Cap",
     "Base MSRP":41430,
     "Dealer Price":41430.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"Available",
     "Pre-Sold":"Yes",
     "Dealer":"Landers Toyota"
@@ -27348,18 +26616,6 @@
     "Dealer":"Cumberland Toyota"
   },
   {
-    "VIN":"JTEMU5JR6P6130271",
-    "Model":"SR5",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":41430,
-    "Dealer Price":41430.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Hellman Toyota, Inc."
-  },
-  {
     "VIN":"JTEMU5JR6P6131680",
     "Model":"SR5",
     "Year":2023,
@@ -27557,11 +26813,11 @@
     "Year":2023,
     "Color":"Ice Cap",
     "Base MSRP":41430,
-    "Dealer Price":41430.0,
+    "Dealer Price":null,
     "Shipping Status":"Factory to port",
-    "Hold Status":null,
+    "Hold Status":"Available",
     "Pre-Sold":"No",
-    "Dealer":"Serra Toyota of Decatur"
+    "Dealer":"Toyota of Dothan"
   },
   {
     "VIN":"JTEMU5JR6P6136992",
@@ -27848,7 +27104,7 @@
     "Dealer Price":44325.0,
     "Shipping Status":"At dealer",
     "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Jim Norton Toyota"
   },
   {
@@ -27922,18 +27178,6 @@
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Toyota of Greenwich"
-  },
-  {
-    "VIN":"JTEMU5JR7P6133115",
-    "Model":"SR5",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":41430,
-    "Dealer Price":41430.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Ken Garff Toyota Cheyenne"
   },
   {
     "VIN":"JTEMU5JR7P6135138",
@@ -28266,7 +27510,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":41430,
     "Dealer Price":41430.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Parker Toyota"
@@ -28376,7 +27620,7 @@
     "Dealer Price":43125.0,
     "Shipping Status":"At dealer",
     "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Findlay Toyota Prescott"
   },
   {
@@ -28398,7 +27642,7 @@
     "Color":"Barcelona Red Metallic",
     "Base MSRP":41430,
     "Dealer Price":41430.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Sterling McCall Toyota Fort Bend"
@@ -28651,8 +27895,8 @@
     "Base MSRP":41430,
     "Dealer Price":41430.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"Yes",
     "Dealer":"Corwin Toyota Boulder"
   },
   {
@@ -28890,10 +28134,10 @@
     "Color":"Ice Cap",
     "Base MSRP":41430,
     "Dealer Price":41430.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Four Stars Toyota"
+    "Pre-Sold":"Yes",
+    "Dealer":"Toyota of Wichita Falls"
   },
   {
     "VIN":"JTEMU5JR9P6134671",
@@ -28992,18 +28236,6 @@
     "Dealer":"Toyota of Plano"
   },
   {
-    "VIN":"JTEMU5JR9P6136856",
-    "Model":"SR5",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":41430,
-    "Dealer Price":41430.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Eddy's Toyota of Wichita"
-  },
-  {
     "VIN":"JTEMU5JR9P6137649",
     "Model":"SR5",
     "Year":2023,
@@ -29059,8 +28291,8 @@
     "Base MSRP":41430,
     "Dealer Price":41430.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"Yes",
     "Dealer":"Mountain States Toyota"
   },
   {
@@ -29658,7 +28890,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":44490,
     "Dealer Price":46389.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Wolfchase Toyota"
@@ -29849,7 +29081,7 @@
     "Year":2023,
     "Color":"Midnight Black Metallic",
     "Base MSRP":44490,
-    "Dealer Price":45390.0,
+    "Dealer Price":44490.0,
     "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"Yes",
@@ -29950,18 +29182,6 @@
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Prestige Toyota of Ramsey"
-  },
-  {
-    "VIN":"JTENU5JR0P6135146",
-    "Model":"SR5 Premium",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":44490,
-    "Dealer Price":44490.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Serra Toyota of Traverse City"
   },
   {
     "VIN":"JTENU5JR0P6135695",
@@ -30259,7 +29479,7 @@
     "Base MSRP":44490,
     "Dealer Price":44490.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":"DealerHold",
+    "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Harr Toyota"
   },
@@ -30606,7 +29826,7 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":44490,
     "Dealer Price":44490.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Toyota of Bourbonnais"
@@ -30750,7 +29970,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":44490,
     "Dealer Price":44490.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Moses Toyota"
@@ -31374,7 +30594,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":44490,
     "Dealer Price":44490.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Oxmoor Toyota"
@@ -31423,7 +30643,7 @@
     "Base MSRP":44490,
     "Dealer Price":44490.0,
     "Shipping Status":"At dealer",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Harr Toyota"
   },
@@ -31614,7 +30834,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":44490,
     "Dealer Price":44490.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Lexington Toyota"
@@ -31699,7 +30919,7 @@
     "Base MSRP":44490,
     "Dealer Price":44490.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":"DealerHold",
+    "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Lithia Toyota of Missoula"
   },
@@ -32011,7 +31231,7 @@
     "Base MSRP":44490,
     "Dealer Price":44490.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":null,
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Right Toyota"
   },
@@ -32190,7 +31410,7 @@
     "Color":"Nautical Blue Metallic",
     "Base MSRP":44490,
     "Dealer Price":44490.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Rudy Luther Toyota"
@@ -32695,7 +31915,7 @@
     "Base MSRP":44490,
     "Dealer Price":52186.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Alamo Toyota"
   },
@@ -32875,7 +32095,7 @@
     "Base MSRP":44490,
     "Dealer Price":44490.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Walser Bloomington Toyota"
   },
@@ -33180,18 +32400,6 @@
     "Dealer":"Performance Toyota"
   },
   {
-    "VIN":"JTENU5JR4P6126658",
-    "Model":"SR5 Premium",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":44490,
-    "Dealer Price":46389.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Wolfchase Toyota"
-  },
-  {
     "VIN":"JTENU5JR4P6126787",
     "Model":"SR5 Premium",
     "Year":2023,
@@ -33258,7 +32466,7 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":44490,
     "Dealer Price":46389.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Wolfchase Toyota"
@@ -33370,6 +32578,18 @@
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Cain Toyota"
+  },
+  {
+    "VIN":"JTENU5JR4P6133299",
+    "Model":"SR5 Premium",
+    "Year":2023,
+    "Color":"Classic Silver Metallic",
+    "Base MSRP":44490,
+    "Dealer Price":44490.0,
+    "Shipping Status":"At dealer",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"Yes",
+    "Dealer":"Mark McLarty Toyota"
   },
   {
     "VIN":"JTENU5JR4P6133528",
@@ -33573,7 +32793,7 @@
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
     "Pre-Sold":"No",
-    "Dealer":"Family Toyota of Burleson"
+    "Dealer":"Bob Howard Toyota"
   },
   {
     "VIN":"JTENU5JR4P6136610",
@@ -33607,7 +32827,7 @@
     "Base MSRP":44490,
     "Dealer Price":44490.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":null,
+    "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Romano Toyota"
   },
@@ -33702,7 +32922,7 @@
     "Color":"Barcelona Red Metallic",
     "Base MSRP":44490,
     "Dealer Price":46385.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Jim Norton Toyota of Oklahoma City"
@@ -33730,18 +32950,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Kings Toyota"
-  },
-  {
-    "VIN":"JTENU5JR4P6138325",
-    "Model":"SR5 Premium",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":44490,
-    "Dealer Price":44490.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Lancaster Toyota"
   },
   {
     "VIN":"JTENU5JR4P6138647",
@@ -33852,18 +33060,6 @@
     "Dealer":"Kings Toyota"
   },
   {
-    "VIN":"JTENU5JR4P6139197",
-    "Model":"SR5 Premium",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":44490,
-    "Dealer Price":44989.0,
-    "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Caldwell Toyota"
-  },
-  {
     "VIN":"JTENU5JR4P6139426",
     "Model":"SR5 Premium",
     "Year":2023,
@@ -33918,7 +33114,7 @@
     "Color":"Ice Cap",
     "Base MSRP":44490,
     "Dealer Price":44490.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Clint Newell Toyota"
@@ -33955,7 +33151,7 @@
     "Base MSRP":44490,
     "Dealer Price":44490.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":null,
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Lithia Toyota"
   },
@@ -33990,7 +33186,7 @@
     "Color":"Nautical Blue Metallic",
     "Base MSRP":44490,
     "Dealer Price":44490.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Markquart Toyota"
@@ -34014,7 +33210,7 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":44490,
     "Dealer Price":44490.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Rick Collins Toyota"
@@ -34026,7 +33222,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":44490,
     "Dealer Price":44490.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Serra Toyota of Traverse City"
@@ -34104,18 +33300,6 @@
     "Dealer":"Vancouver Toyota"
   },
   {
-    "VIN":"JTENU5JR5P6126961",
-    "Model":"SR5 Premium",
-    "Year":2023,
-    "Color":"Nautical Blue Metallic",
-    "Base MSRP":44490,
-    "Dealer Price":44490.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Loyalty Toyota"
-  },
-  {
     "VIN":"JTENU5JR5P6127057",
     "Model":"SR5 Premium",
     "Year":2023,
@@ -34186,18 +33370,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Lake Country Toyota"
-  },
-  {
-    "VIN":"JTENU5JR5P6129391",
-    "Model":"SR5 Premium",
-    "Year":2023,
-    "Color":"Classic Silver Metallic",
-    "Base MSRP":44490,
-    "Dealer Price":47490.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"John Eagle Sport City Toyota"
   },
   {
     "VIN":"JTENU5JR5P6130346",
@@ -34438,6 +33610,18 @@
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Coggins Toyota of Bennington"
+  },
+  {
+    "VIN":"JTENU5JR5P6136311",
+    "Model":"SR5 Premium",
+    "Year":2023,
+    "Color":"Midnight Black Metallic",
+    "Base MSRP":44490,
+    "Dealer Price":44490.0,
+    "Shipping Status":"Port to dealer",
+    "Hold Status":null,
+    "Pre-Sold":"No",
+    "Dealer":"Toyota of Hackensack"
   },
   {
     "VIN":"JTENU5JR5P6136373",
@@ -34692,6 +33876,18 @@
     "Dealer":"Southern 441 Toyota"
   },
   {
+    "VIN":"JTENU5JR5P6138964",
+    "Model":"SR5 Premium",
+    "Year":2023,
+    "Color":"Ice Cap",
+    "Base MSRP":44490,
+    "Dealer Price":44490.0,
+    "Shipping Status":"At dealer",
+    "Hold Status":"Available",
+    "Pre-Sold":"No",
+    "Dealer":"Germain Toyota of Naples"
+  },
+  {
     "VIN":"JTENU5JR5P6139032",
     "Model":"SR5 Premium",
     "Year":2023,
@@ -34774,6 +33970,18 @@
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Toyota of Stamford"
+  },
+  {
+    "VIN":"JTENU5JR5P6139676",
+    "Model":"SR5 Premium",
+    "Year":2023,
+    "Color":"Ice Cap",
+    "Base MSRP":44490,
+    "Dealer Price":44490.0,
+    "Shipping Status":"At dealer",
+    "Hold Status":"Available",
+    "Pre-Sold":"No",
+    "Dealer":"Toyota of Santa Maria"
   },
   {
     "VIN":"JTENU5JR5P6139760",
@@ -34866,7 +34074,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":44490,
     "Dealer Price":44490.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Cain Toyota"
@@ -35023,7 +34231,7 @@
     "Base MSRP":44490,
     "Dealer Price":47034.0,
     "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
+    "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Hudson Toyota"
   },
@@ -35058,7 +34266,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":44490,
     "Dealer Price":44490.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Haley Toyota of Richmond"
@@ -35298,7 +34506,7 @@
     "Color":"Nautical Blue Metallic",
     "Base MSRP":44490,
     "Dealer Price":44490.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Pedersen Toyota, Ltd."
@@ -35814,7 +35022,7 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":44490,
     "Dealer Price":44490.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Metro Toyota"
@@ -35912,7 +35120,7 @@
     "Dealer Price":44490.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Milton Martin Toyota"
   },
   {
@@ -35947,7 +35155,7 @@
     "Base MSRP":44490,
     "Dealer Price":44490.0,
     "Shipping Status":"At dealer",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Interstate Toyota"
   },
@@ -36918,7 +36126,7 @@
     "Color":"Ice Cap",
     "Base MSRP":44490,
     "Dealer Price":44490.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":null,
     "Pre-Sold":"Yes",
     "Dealer":"Avondale Toyota"
@@ -36966,7 +36174,7 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":44490,
     "Dealer Price":44490.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Damian Lillard Toyota"
@@ -37412,7 +36620,7 @@
     "Dealer Price":49885.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
-    "Pre-Sold":"Yes",
+    "Pre-Sold":"No",
     "Dealer":"South Toyota"
   },
   {
@@ -37676,7 +36884,7 @@
     "Dealer Price":44490.0,
     "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Adams Toyota Lee's Summit"
   },
   {
@@ -37758,7 +36966,7 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":44490,
     "Dealer Price":44490.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"Available",
     "Pre-Sold":"Yes",
     "Dealer":"Red River Toyota"
@@ -37870,18 +37078,6 @@
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Springhill Toyota"
-  },
-  {
-    "VIN":"JTENU5JR9P6134724",
-    "Model":"SR5 Premium",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":44490,
-    "Dealer Price":44490.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Toyota Santa Monica"
   },
   {
     "VIN":"JTENU5JR9P6135534",
@@ -38287,7 +37483,7 @@
     "Base MSRP":44490,
     "Dealer Price":46365.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Red McCombs Toyota"
   },
@@ -38321,7 +37517,7 @@
     "Year":2023,
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":44490,
-    "Dealer Price":44490.0,
+    "Dealer Price":46485.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
     "Pre-Sold":"No",
@@ -38422,18 +37618,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Fowler Toyota"
-  },
-  {
-    "VIN":"JTENU5JRXP6128611",
-    "Model":"SR5 Premium",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":44490,
-    "Dealer Price":44490.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"CMA's Toyota of Martinsburg"
   },
   {
     "VIN":"JTENU5JRXP6128835",
@@ -38544,18 +37728,6 @@
     "Dealer":"Coos Bay Toyota"
   },
   {
-    "VIN":"JTENU5JRXP6132643",
-    "Model":"SR5 Premium",
-    "Year":2023,
-    "Color":"Nautical Blue Metallic",
-    "Base MSRP":44490,
-    "Dealer Price":44490.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"DARCARS Toyota"
-  },
-  {
     "VIN":"JTENU5JRXP6133050",
     "Model":"SR5 Premium",
     "Year":2023,
@@ -38573,7 +37745,7 @@
     "Year":2023,
     "Color":"Barcelona Red Metallic",
     "Base MSRP":44490,
-    "Dealer Price":44490.0,
+    "Dealer Price":50449.0,
     "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
@@ -38587,7 +37759,7 @@
     "Base MSRP":44490,
     "Dealer Price":44490.0,
     "Shipping Status":"At dealer",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Koons Tysons Toyota"
   },
@@ -38635,7 +37807,7 @@
     "Base MSRP":44490,
     "Dealer Price":44490.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":null,
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Buckhannon Toyota"
   },
@@ -38721,7 +37893,7 @@
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
     "Pre-Sold":"No",
-    "Dealer":"Bob Howard Toyota"
+    "Dealer":"Family Toyota of Burleson"
   },
   {
     "VIN":"JTENU5JRXP6136367",
@@ -38873,11 +38045,11 @@
     "Year":2023,
     "Color":"Ice Cap",
     "Base MSRP":44490,
-    "Dealer Price":44490.0,
+    "Dealer Price":null,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
     "Pre-Sold":"No",
-    "Dealer":"Ed Morse Delray Toyota"
+    "Dealer":"High Country Toyota"
   },
   {
     "VIN":"JTENU5JRXP6138412",
@@ -38935,8 +38107,8 @@
     "Base MSRP":44490,
     "Dealer Price":45985.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"Yes",
     "Dealer":"Toyota of North Austin"
   },
   {
@@ -38974,6 +38146,18 @@
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Five Star Toyota of Milledgeville"
+  },
+  {
+    "VIN":"JTENU5JRXP6138815",
+    "Model":"SR5 Premium",
+    "Year":2023,
+    "Color":"Midnight Black Metallic",
+    "Base MSRP":44490,
+    "Dealer Price":44490.0,
+    "Shipping Status":"Port to dealer",
+    "Hold Status":null,
+    "Pre-Sold":"No",
+    "Dealer":"Hoselton Toyota"
   },
   {
     "VIN":"JTENU5JRXP6138863",
@@ -39055,8 +38239,8 @@
     "Base MSRP":44490,
     "Dealer Price":44490.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"Yes",
     "Dealer":"Toyota of Puyallup"
   },
   {
@@ -39106,6 +38290,18 @@
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Prestige Toyota"
+  },
+  {
+    "VIN":"JTENU5JRXP6140211",
+    "Model":"SR5 Premium",
+    "Year":2023,
+    "Color":"Midnight Black Metallic",
+    "Base MSRP":44490,
+    "Dealer Price":44490.0,
+    "Shipping Status":"Factory to port",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"Yes",
+    "Dealer":"Romano Toyota"
   },
   {
     "VIN":"JTENU5JRXP6140306",
@@ -39238,6 +38434,18 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Suburban Toyota of Troy"
+  },
+  {
+    "VIN":"JTEPU5JR1P6138775",
+    "Model":"TRD Off-Road",
+    "Year":2023,
+    "Color":"Classic Silver Metallic",
+    "Base MSRP":43400,
+    "Dealer Price":43400.0,
+    "Shipping Status":"Port to dealer",
+    "Hold Status":"Available",
+    "Pre-Sold":"No",
+    "Dealer":"Findlay Toyota Flagstaff"
   },
   {
     "VIN":"JTEPU5JR1P6139604",
@@ -39384,6 +38592,18 @@
     "Dealer":"Alamo Toyota"
   },
   {
+    "VIN":"JTERU5JR0P6117571",
+    "Model":"TRD Off-Road Premium",
+    "Year":2023,
+    "Color":"Ice Cap",
+    "Base MSRP":45230,
+    "Dealer Price":null,
+    "Shipping Status":"At dealer",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"No",
+    "Dealer":"Denny Menholt Toyota"
+  },
+  {
     "VIN":"JTERU5JR0P6118252",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -39480,18 +38700,6 @@
     "Dealer":"Bergeron Toyota"
   },
   {
-    "VIN":"JTERU5JR0P6130420",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Midnight Black Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Rick Hendrick Toyota"
-  },
-  {
     "VIN":"JTERU5JR0P6130739",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -39538,18 +38746,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Ed Martin Toyota"
-  },
-  {
-    "VIN":"JTERU5JR0P6132149",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Midnight Black Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Fitzgerald Toyota Gaithersburg"
   },
   {
     "VIN":"JTERU5JR0P6132264",
@@ -39621,7 +38817,7 @@
     "Shipping Status":"At dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
-    "Dealer":"Toyota of Dothan"
+    "Dealer":"Serra Toyota of Decatur"
   },
   {
     "VIN":"JTERU5JR0P6133835",
@@ -39694,18 +38890,6 @@
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Casey Toyota"
-  },
-  {
-    "VIN":"JTERU5JR0P6134287",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Midnight Black Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Centennial Toyota"
   },
   {
     "VIN":"JTERU5JR0P6134385",
@@ -39960,18 +39144,6 @@
     "Dealer":"Performance Motors Toyota"
   },
   {
-    "VIN":"JTERU5JR0P6136542",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Midnight Black Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":null,
-    "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Rick Hendrick Toyota"
-  },
-  {
     "VIN":"JTERU5JR0P6136556",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -40123,7 +39295,7 @@
     "Base MSRP":45980,
     "Dealer Price":45980.0,
     "Shipping Status":"At dealer",
-    "Hold Status":null,
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Culver City Toyota"
   },
@@ -40280,7 +39452,7 @@
     "Dealer Price":45980.0,
     "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Pedersen Toyota, Ltd."
   },
   {
@@ -40314,7 +39486,7 @@
     "Color":"Ice Cap",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Victory Toyota of San Bruno"
@@ -40592,7 +39764,7 @@
     "Dealer Price":45980.0,
     "Shipping Status":"Factory to port",
     "Hold Status":null,
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Kenosha Toyota"
   },
   {
@@ -40614,7 +39786,7 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Toyota of Muskegon"
@@ -40662,7 +39834,7 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":45980,
     "Dealer Price":47979.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Foothills Toyota"
@@ -40722,7 +39894,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Toyota of Des Moines"
@@ -40734,7 +39906,7 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Ken Nelson Toyota"
@@ -40770,7 +39942,7 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"City Toyota"
@@ -40842,7 +40014,7 @@
     "Color":"Lunar Rock",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Kolosso Toyota"
@@ -40878,7 +40050,7 @@
     "Color":"Nautical Blue Metallic",
     "Base MSRP":45980,
     "Dealer Price":46678.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Newbold Toyota"
@@ -40918,6 +40090,18 @@
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Casey Toyota"
+  },
+  {
+    "VIN":"JTERU5JR0P6141675",
+    "Model":"TRD Off-Road Premium",
+    "Year":2023,
+    "Color":"Nautical Blue Metallic",
+    "Base MSRP":45980,
+    "Dealer Price":45980.0,
+    "Shipping Status":"Factory to port",
+    "Hold Status":null,
+    "Pre-Sold":"No",
+    "Dealer":"Joseph Airport Toyota"
   },
   {
     "VIN":"JTERU5JR0P6141692",
@@ -40962,7 +40146,7 @@
     "Color":"Lunar Rock",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Toyota of Des Moines"
@@ -40974,7 +40158,7 @@
     "Color":"Lunar Rock",
     "Base MSRP":45980,
     "Dealer Price":47979.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Foothills Toyota"
@@ -41070,7 +40254,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":45980,
     "Dealer Price":46778.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Toyota of Tacoma"
@@ -41184,18 +40368,6 @@
     "Dealer":"Baxter Toyota of La Vista"
   },
   {
-    "VIN":"JTERU5JR1P6129681",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Nautical Blue Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Williams Toyota of Binghamton"
-  },
-  {
     "VIN":"JTERU5JR1P6129924",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -41266,18 +40438,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Woburn Toyota"
-  },
-  {
-    "VIN":"JTERU5JR1P6130958",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"Yes",
-    "Dealer":"Heyward Allen Toyota"
   },
   {
     "VIN":"JTERU5JR1P6131625",
@@ -41544,18 +40704,6 @@
     "Dealer":"Rohrich Toyota"
   },
   {
-    "VIN":"JTERU5JR1P6135576",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Cobb County Toyota"
-  },
-  {
     "VIN":"JTERU5JR1P6135643",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -41574,10 +40722,10 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":"DealerHold",
+    "Shipping Status":"At dealer",
+    "Hold Status":"Available",
     "Pre-Sold":"No",
-    "Dealer":"Phil Meador Toyota"
+    "Dealer":"Brent Brown Toyota"
   },
   {
     "VIN":"JTERU5JR1P6135769",
@@ -41660,7 +40808,7 @@
     "Dealer Price":45980.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Toyota of Greensboro"
   },
   {
@@ -41842,18 +40990,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Voss Toyota"
-  },
-  {
-    "VIN":"JTERU5JR1P6137215",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Lunar Rock",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Rivertown Toyota"
   },
   {
     "VIN":"JTERU5JR1P6137277",
@@ -42228,18 +41364,6 @@
     "Dealer":"Huntsville Toyota"
   },
   {
-    "VIN":"JTERU5JR1P6139451",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Findlay Toyota"
-  },
-  {
     "VIN":"JTERU5JR1P6139482",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -42262,18 +41386,6 @@
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Toyota of Erie"
-  },
-  {
-    "VIN":"JTERU5JR1P6139725",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":45980,
-    "Dealer Price":50970.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Longo Toyota"
   },
   {
     "VIN":"JTERU5JR1P6139742",
@@ -42318,9 +41430,9 @@
     "Color":"Lunar Rock",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Jeff Wyler Toyota of Clarksville"
   },
   {
@@ -42378,7 +41490,7 @@
     "Color":"Lunar Rock",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Dick Hannah Toyota"
@@ -42450,7 +41562,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Romeoville Toyota"
@@ -42678,7 +41790,7 @@
     "Color":"Lunar Rock",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Fox Toyota"
@@ -42732,6 +41844,18 @@
     "Dealer":"Tony Divino Toyota"
   },
   {
+    "VIN":"JTERU5JR1P6142446",
+    "Model":"TRD Off-Road Premium",
+    "Year":2023,
+    "Color":"Magnetic Gray Metallic",
+    "Base MSRP":45980,
+    "Dealer Price":45980.0,
+    "Shipping Status":"Port to dealer",
+    "Hold Status":null,
+    "Pre-Sold":"No",
+    "Dealer":"Toyota of Seattle"
+  },
+  {
     "VIN":"JTERU5JR1P6142558",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -42750,7 +41874,7 @@
     "Color":"Ice Cap",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Rhinelander Toyota"
@@ -42870,7 +41994,7 @@
     "Color":"Ice Cap",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Seeger Toyota"
@@ -42978,7 +42102,7 @@
     "Color":"Classic Silver Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Bergstrom Toyota"
@@ -43080,18 +42204,6 @@
     "Dealer":"Koons Tysons Toyota"
   },
   {
-    "VIN":"JTERU5JR2P6130404",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Classic Silver Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Sterling McCall Toyota Fort Bend"
-  },
-  {
     "VIN":"JTERU5JR2P6130659",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -43102,18 +42214,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Checkered Flag Toyota"
-  },
-  {
-    "VIN":"JTERU5JR2P6130970",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"Yes",
-    "Dealer":"Green Toyota"
   },
   {
     "VIN":"JTERU5JR2P6131116",
@@ -43138,6 +42238,18 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Peppers Toyota"
+  },
+  {
+    "VIN":"JTERU5JR2P6131665",
+    "Model":"TRD Off-Road Premium",
+    "Year":2023,
+    "Color":"Lunar Rock",
+    "Base MSRP":45980,
+    "Dealer Price":45980.0,
+    "Shipping Status":"At dealer",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"No",
+    "Dealer":"Sandia Toyota"
   },
   {
     "VIN":"JTERU5JR2P6131746",
@@ -43291,7 +42403,7 @@
     "Base MSRP":45980,
     "Dealer Price":45980.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Performance Motors Toyota"
   },
@@ -43301,7 +42413,7 @@
     "Year":2023,
     "Color":"Lunar Rock",
     "Base MSRP":45980,
-    "Dealer Price":52756.0,
+    "Dealer Price":56756.0,
     "Shipping Status":"At dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
@@ -43800,18 +42912,6 @@
     "Dealer":"Red McCombs Toyota"
   },
   {
-    "VIN":"JTERU5JR2P6138129",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":45980,
-    "Dealer Price":51560.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Kearny Mesa Toyota"
-  },
-  {
     "VIN":"JTERU5JR2P6138227",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -44038,18 +43138,6 @@
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Toyota of Bowling Green"
-  },
-  {
-    "VIN":"JTERU5JR2P6139328",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Lunar Rock",
-    "Base MSRP":45980,
-    "Dealer Price":54475.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Toyota Carlsbad"
   },
   {
     "VIN":"JTERU5JR2P6139474",
@@ -44310,7 +43398,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"Available",
     "Pre-Sold":"Yes",
     "Dealer":"Colville Toyota"
@@ -44376,6 +43464,18 @@
     "Dealer":"Heritage Toyota Harrisburg"
   },
   {
+    "VIN":"JTERU5JR2P6141550",
+    "Model":"TRD Off-Road Premium",
+    "Year":2023,
+    "Color":"Lunar Rock",
+    "Base MSRP":45980,
+    "Dealer Price":45980.0,
+    "Shipping Status":"Port to dealer",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"No",
+    "Dealer":"Butte Toyota"
+  },
+  {
     "VIN":"JTERU5JR2P6141581",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -44394,7 +43494,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Spartan Toyota"
@@ -44454,22 +43554,10 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Lithia Toyota"
-  },
-  {
-    "VIN":"JTERU5JR2P6141824",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Lunar Rock",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Larry H. Miller Toyota Murray"
   },
   {
     "VIN":"JTERU5JR2P6141869",
@@ -44494,6 +43582,18 @@
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Toyota of Whittier"
+  },
+  {
+    "VIN":"JTERU5JR2P6141967",
+    "Model":"TRD Off-Road Premium",
+    "Year":2023,
+    "Color":"Lunar Rock",
+    "Base MSRP":45980,
+    "Dealer Price":45980.0,
+    "Shipping Status":"Port to dealer",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"No",
+    "Dealer":"Village Pointe Toyota"
   },
   {
     "VIN":"JTERU5JR2P6141970",
@@ -44539,7 +43639,7 @@
     "Base MSRP":45980,
     "Dealer Price":45980.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":null,
+    "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Toyota of Lompoc"
   },
@@ -44598,7 +43698,7 @@
     "Color":"Lunar Rock",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Corwin Toyota"
@@ -44622,7 +43722,7 @@
     "Color":"Lunar Rock",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Rudy Luther Toyota"
@@ -44760,6 +43860,18 @@
     "Dealer":"Capital City Toyota"
   },
   {
+    "VIN":"JTERU5JR3P6119394",
+    "Model":"TRD Off-Road Premium",
+    "Year":2023,
+    "Color":"Classic Silver Metallic",
+    "Base MSRP":45230,
+    "Dealer Price":null,
+    "Shipping Status":"At dealer",
+    "Hold Status":"Available",
+    "Pre-Sold":"No",
+    "Dealer":"Cedric Theel Toyota"
+  },
+  {
     "VIN":"JTERU5JR3P6128385",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -44814,7 +43926,7 @@
     "Color":"Classic Silver Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Woburn Toyota"
@@ -44940,18 +44052,6 @@
     "Dealer":"Malloy Toyota"
   },
   {
-    "VIN":"JTERU5JR3P6133652",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Al Hendrickson Toyota"
-  },
-  {
     "VIN":"JTERU5JR3P6133909",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -45018,7 +44118,7 @@
     "Color":"Nautical Blue Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"Available",
     "Pre-Sold":"Yes",
     "Dealer":"John Harvey Toyota"
@@ -45029,9 +44129,9 @@
     "Year":2023,
     "Color":"Ice Cap",
     "Base MSRP":45980,
-    "Dealer Price":54756.0,
+    "Dealer Price":63755.0,
     "Shipping Status":"At dealer",
-    "Hold Status":null,
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Toyota of Tacoma"
   },
@@ -45396,18 +44496,6 @@
     "Dealer":"Gregg Young Toyota Ottumwa"
   },
   {
-    "VIN":"JTERU5JR3P6137541",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Lunar Rock",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":null,
-    "Pre-Sold":"Yes",
-    "Dealer":"Wills Toyota"
-  },
-  {
     "VIN":"JTERU5JR3P6137572",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -45738,7 +44826,7 @@
     "Color":"Barcelona Red Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Toyota Walnut Creek"
@@ -45750,7 +44838,7 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Graham Toyota"
@@ -45966,7 +45054,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Elgin Toyota"
@@ -46002,7 +45090,7 @@
     "Color":"Lunar Rock",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Schaumburg Toyota"
@@ -46110,9 +45198,9 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
-    "Hold Status":null,
-    "Pre-Sold":"No",
+    "Shipping Status":"Port to dealer",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"Yes",
     "Dealer":"Toyota of Des Moines"
   },
   {
@@ -46146,7 +45234,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Toyota of Ashland"
@@ -46374,7 +45462,7 @@
     "Color":"Lunar Rock",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Peppers Toyota"
@@ -46398,7 +45486,7 @@
     "Color":"Lunar Rock",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"John Weiss' Toyota of South County"
@@ -46434,7 +45522,7 @@
     "Color":"Ice Cap",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Metro Toyota"
@@ -46572,18 +45660,6 @@
     "Dealer":"Toyota of Southern Maryland"
   },
   {
-    "VIN":"JTERU5JR4P6130226",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Midnight Black Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Toyota of Greer"
-  },
-  {
     "VIN":"JTERU5JR4P6130288",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -46594,30 +45670,6 @@
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Don Wood Toyota"
-  },
-  {
-    "VIN":"JTERU5JR4P6131067",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Midnight Black Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Toyota of Woodbridge"
-  },
-  {
-    "VIN":"JTERU5JR4P6131764",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Barcelona Red Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Mike Calvert Toyota"
   },
   {
     "VIN":"JTERU5JR4P6131926",
@@ -46752,16 +45804,28 @@
     "Dealer":"Toyota of Seattle"
   },
   {
+    "VIN":"JTERU5JR4P6134051",
+    "Model":"TRD Off-Road Premium",
+    "Year":2023,
+    "Color":"Lunar Rock",
+    "Base MSRP":45980,
+    "Dealer Price":45980.0,
+    "Shipping Status":"At dealer",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"No",
+    "Dealer":"Groove Toyota"
+  },
+  {
     "VIN":"JTERU5JR4P6134311",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
     "Color":"Ice Cap",
     "Base MSRP":45980,
-    "Dealer Price":45980.0,
+    "Dealer Price":48170.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
-    "Dealer":"Kirk Toyota"
+    "Dealer":"Cannon Toyota"
   },
   {
     "VIN":"JTERU5JR4P6134440",
@@ -46770,7 +45834,7 @@
     "Color":"Lunar Rock",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Priority Toyota"
@@ -46962,7 +46026,7 @@
     "Color":"Lunar Rock",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Victory Toyota"
@@ -46997,11 +46061,11 @@
     "Year":2023,
     "Color":"Lime Rush",
     "Base MSRP":45980,
-    "Dealer Price":47975.0,
+    "Dealer Price":45980.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
     "Pre-Sold":"No",
-    "Dealer":"Toyota of Killeen"
+    "Dealer":"Bruner Toyota"
   },
   {
     "VIN":"JTERU5JR4P6136429",
@@ -47088,18 +46152,6 @@
     "Dealer":"Zeigler Toyota of Racine"
   },
   {
-    "VIN":"JTERU5JR4P6136947",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Modern Toyota"
-  },
-  {
     "VIN":"JTERU5JR4P6136978",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -47134,18 +46186,6 @@
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Toyota of Clermont"
-  },
-  {
-    "VIN":"JTERU5JR4P6137287",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Damian Lillard Toyota"
   },
   {
     "VIN":"JTERU5JR4P6137306",
@@ -47376,18 +46416,6 @@
     "Dealer":"Toyota of Anaheim"
   },
   {
-    "VIN":"JTERU5JR4P6138892",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"Yes",
-    "Dealer":"Stevens Creek Toyota"
-  },
-  {
     "VIN":"JTERU5JR4P6138908",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -47468,7 +46496,7 @@
     "Dealer Price":47254.0,
     "Shipping Status":"Port to dealer",
     "Hold Status":null,
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Tom Wood Toyota"
   },
   {
@@ -47610,7 +46638,7 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"Yes",
     "Dealer":"Wills Toyota"
@@ -47772,18 +46800,6 @@
     "Dealer":"Marina Del Rey Toyota"
   },
   {
-    "VIN":"JTERU5JR4P6140934",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"AutoNation Toyota Las Vegas"
-  },
-  {
     "VIN":"JTERU5JR4P6140948",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -47934,7 +46950,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"O'Brien Toyota"
@@ -47994,7 +47010,7 @@
     "Color":"Lunar Rock",
     "Base MSRP":45980,
     "Dealer Price":46279.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"Available",
     "Pre-Sold":"Yes",
     "Dealer":"Toyota of Bellingham"
@@ -48108,6 +47124,18 @@
     "Dealer":"First Team Toyota"
   },
   {
+    "VIN":"JTERU5JR4P6142232",
+    "Model":"TRD Off-Road Premium",
+    "Year":2023,
+    "Color":"Midnight Black Metallic",
+    "Base MSRP":45980,
+    "Dealer Price":45980.0,
+    "Shipping Status":"Port to dealer",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"No",
+    "Dealer":"Don Jacobs Toyota"
+  },
+  {
     "VIN":"JTERU5JR4P6142280",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -48162,7 +47190,7 @@
     "Color":"Lunar Rock",
     "Base MSRP":45980,
     "Dealer Price":51975.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Swickard Toyota"
@@ -48234,7 +47262,7 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Five Star Toyota"
@@ -48295,8 +47323,8 @@
     "Base MSRP":45980,
     "Dealer Price":45980.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"Yes",
     "Dealer":"Gene Messer Toyota"
   },
   {
@@ -48451,7 +47479,7 @@
     "Base MSRP":45980,
     "Dealer Price":46358.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"I-5 Toyota"
   },
@@ -48668,7 +47696,7 @@
     "Dealer Price":45980.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"DealerHold",
-    "Pre-Sold":"Yes",
+    "Pre-Sold":"No",
     "Dealer":"Northridge Toyota"
   },
   {
@@ -48788,7 +47816,7 @@
     "Dealer Price":47675.0,
     "Shipping Status":"Port to dealer",
     "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Findlay Toyota Prescott"
   },
   {
@@ -48881,11 +47909,11 @@
     "Year":2023,
     "Color":"Lime Rush",
     "Base MSRP":45980,
-    "Dealer Price":45980.0,
+    "Dealer Price":null,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
     "Pre-Sold":"No",
-    "Dealer":"High Country Toyota"
+    "Dealer":"Ed Morse Delray Toyota"
   },
   {
     "VIN":"JTERU5JR5P6136908",
@@ -48934,6 +47962,18 @@
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Phil Meador Toyota"
+  },
+  {
+    "VIN":"JTERU5JR5P6137265",
+    "Model":"TRD Off-Road Premium",
+    "Year":2023,
+    "Color":"Magnetic Gray Metallic",
+    "Base MSRP":45980,
+    "Dealer Price":45980.0,
+    "Shipping Status":"Port to dealer",
+    "Hold Status":"Available",
+    "Pre-Sold":"Yes",
+    "Dealer":"Findlay Toyota Spokane"
   },
   {
     "VIN":"JTERU5JR5P6137282",
@@ -49217,7 +48257,7 @@
     "Year":2023,
     "Color":"Classic Silver Metallic",
     "Base MSRP":45980,
-    "Dealer Price":45980.0,
+    "Dealer Price":46979.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
@@ -49350,7 +48390,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Edmark Toyota"
@@ -49446,7 +48486,7 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Olathe Toyota"
@@ -49578,7 +48618,7 @@
     "Color":"Classic Silver Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Fort Dodge Ford, Lincoln, Toyota"
@@ -49642,6 +48682,18 @@
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Halterman's Toyota"
+  },
+  {
+    "VIN":"JTERU5JR5P6141221",
+    "Model":"TRD Off-Road Premium",
+    "Year":2023,
+    "Color":"Lunar Rock",
+    "Base MSRP":45980,
+    "Dealer Price":45980.0,
+    "Shipping Status":"Port to dealer",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"No",
+    "Dealer":"Lithia Toyota of Missoula"
   },
   {
     "VIN":"JTERU5JR5P6141249",
@@ -49710,7 +48762,7 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Jay Wolfe Toyota of West County"
@@ -49794,7 +48846,7 @@
     "Color":"Nautical Blue Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Minot Toyota Center"
@@ -50179,7 +49231,7 @@
     "Base MSRP":45980,
     "Dealer Price":45980.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Romano Toyota"
   },
@@ -50336,8 +49388,8 @@
     "Dealer Price":45980.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Bruner Toyota"
+    "Pre-Sold":"Yes",
+    "Dealer":"Toyota of Killeen"
   },
   {
     "VIN":"JTERU5JR6P6135962",
@@ -50443,7 +49495,7 @@
     "Base MSRP":45980,
     "Dealer Price":45980.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Kerry Toyota"
   },
@@ -50525,9 +49577,9 @@
     "Year":2023,
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":45980,
-    "Dealer Price":51865.0,
+    "Dealer Price":45980.0,
     "Shipping Status":"At dealer",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Longo Toyota"
   },
@@ -50736,18 +49788,6 @@
     "Dealer":"Corwin Toyota of Bellevue"
   },
   {
-    "VIN":"JTERU5JR6P6138165",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Classic Silver Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Cobb County Toyota"
-  },
-  {
     "VIN":"JTERU5JR6P6138196",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -50755,9 +49795,9 @@
     "Base MSRP":45980,
     "Dealer Price":45980.0,
     "Shipping Status":"At dealer",
-    "Hold Status":null,
+    "Hold Status":"Available",
     "Pre-Sold":"No",
-    "Dealer":"Future Toyota of Yuba City"
+    "Dealer":"Hanlees Fairfield Toyota"
   },
   {
     "VIN":"JTERU5JR6P6138201",
@@ -51036,18 +50076,6 @@
     "Dealer":"Sheehy Toyota of Fredericksburg"
   },
   {
-    "VIN":"JTERU5JR6P6140448",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Larry H. Miller Toyota Murray"
-  },
-  {
     "VIN":"JTERU5JR6P6140529",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -51198,7 +50226,7 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Kenny Kent Toyota"
@@ -51451,7 +50479,7 @@
     "Base MSRP":45980,
     "Dealer Price":45980.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":"DealerHold",
+    "Hold Status":"Available",
     "Pre-Sold":"Yes",
     "Dealer":"Toyota South"
   },
@@ -51478,18 +50506,6 @@
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Alexandria Toyota"
-  },
-  {
-    "VIN":"JTERU5JR7P6127725",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Classic Silver Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":null,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Yellowstone Toyota"
   },
   {
     "VIN":"JTERU5JR7P6128986",
@@ -51588,18 +50604,6 @@
     "Dealer":"Jay Wolfe Toyota"
   },
   {
-    "VIN":"JTERU5JR7P6131872",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"Yes",
-    "Dealer":"Berglund Toyota"
-  },
-  {
     "VIN":"JTERU5JR7P6132438",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -51643,8 +50647,8 @@
     "Base MSRP":45980,
     "Dealer Price":45980.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"Yes",
     "Dealer":"Community Toyota"
   },
   {
@@ -51706,18 +50710,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Bill Estes Toyota"
-  },
-  {
-    "VIN":"JTERU5JR7P6134609",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Toyota of Santa Maria"
   },
   {
     "VIN":"JTERU5JR7P6134979",
@@ -51912,18 +50904,6 @@
     "Dealer":"Denny Menholt Toyota"
   },
   {
-    "VIN":"JTERU5JR7P6136649",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Toyota of San Bernardino"
-  },
-  {
     "VIN":"JTERU5JR7P6136764",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -52076,7 +51056,7 @@
     "Dealer Price":45980.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Town & Country Toyota"
   },
   {
@@ -52135,7 +51115,7 @@
     "Base MSRP":45980,
     "Dealer Price":45980.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":null,
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Ken Ganley Toyota Akron"
   },
@@ -52414,6 +51394,18 @@
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"High Country Toyota"
+  },
+  {
+    "VIN":"JTERU5JR7P6139079",
+    "Model":"TRD Off-Road Premium",
+    "Year":2023,
+    "Color":"Lunar Rock",
+    "Base MSRP":45980,
+    "Dealer Price":45980.0,
+    "Shipping Status":"At dealer",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"No",
+    "Dealer":"Toyota Marin"
   },
   {
     "VIN":"JTERU5JR7P6139101",
@@ -53046,7 +52038,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Metro Toyota"
@@ -53208,30 +52200,6 @@
     "Dealer":"Classic Toyota"
   },
   {
-    "VIN":"JTERU5JR8P6105071",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Lunar Rock",
-    "Base MSRP":45230,
-    "Dealer Price":45230.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Warrenton Toyota"
-  },
-  {
-    "VIN":"JTERU5JR8P6123165",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Midnight Black Metallic",
-    "Base MSRP":45230,
-    "Dealer Price":null,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Luther Brookdale Toyota"
-  },
-  {
     "VIN":"JTERU5JR8P6130388",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -53323,7 +52291,7 @@
     "Base MSRP":45980,
     "Dealer Price":45980.0,
     "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
+    "Hold Status":"Available",
     "Pre-Sold":"Yes",
     "Dealer":"Findlay Toyota Spokane"
   },
@@ -53346,7 +52314,7 @@
     "Color":"Nautical Blue Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Toyota of Santa Fe"
@@ -53410,18 +52378,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Carson City Toyota"
-  },
-  {
-    "VIN":"JTERU5JR8P6134540",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Midnight Black Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Sparks Toyota"
   },
   {
     "VIN":"JTERU5JR8P6134733",
@@ -54132,6 +53088,18 @@
     "Dealer":"Golling Toyota of Warren"
   },
   {
+    "VIN":"JTERU5JR8P6139771",
+    "Model":"TRD Off-Road Premium",
+    "Year":2023,
+    "Color":"Lunar Rock",
+    "Base MSRP":45980,
+    "Dealer Price":45980.0,
+    "Shipping Status":"Factory to port",
+    "Hold Status":null,
+    "Pre-Sold":"No",
+    "Dealer":"Koons Tysons Toyota"
+  },
+  {
     "VIN":"JTERU5JR8P6139897",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -54246,7 +53214,7 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Lewis Toyota of Hays"
@@ -54426,7 +53394,7 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Toyota on Nicholasville"
@@ -54690,7 +53658,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Bergstrom Toyota"
@@ -54898,18 +53866,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Koons Arlington Toyota"
-  },
-  {
-    "VIN":"JTERU5JR9P6132442",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Lime Rush",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Priority Toyota Springfield"
   },
   {
     "VIN":"JTERU5JR9P6132568",
@@ -55193,11 +54149,11 @@
     "Year":2023,
     "Color":"Classic Silver Metallic",
     "Base MSRP":45980,
-    "Dealer Price":48975.0,
+    "Dealer Price":47879.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
     "Pre-Sold":"No",
-    "Dealer":"Classic Toyota"
+    "Dealer":"Karl Malone Toyota Chevrolet"
   },
   {
     "VIN":"JTERU5JR9P6136619",
@@ -55244,7 +54200,7 @@
     "Dealer Price":45980.0,
     "Shipping Status":"Factory to port",
     "Hold Status":null,
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Mechanicsville Toyota"
   },
   {
@@ -55374,7 +54330,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Carson City Toyota"
@@ -55435,7 +54391,7 @@
     "Base MSRP":45980,
     "Dealer Price":45980.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":"DealerHold",
+    "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Voss Toyota"
   },
@@ -55498,18 +54454,6 @@
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Toyota of Ann Arbor"
-  },
-  {
-    "VIN":"JTERU5JR9P6139004",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Koons Tysons Toyota"
   },
   {
     "VIN":"JTERU5JR9P6139004",
@@ -55638,7 +54582,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Corwin Toyota"
@@ -55902,7 +54846,7 @@
     "Color":"Midnight Black Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"Available",
     "Pre-Sold":"Yes",
     "Dealer":"Hosmer Toyota"
@@ -56064,6 +55008,18 @@
     "Dealer":"Gresham Toyota"
   },
   {
+    "VIN":"JTERU5JR9P6142095",
+    "Model":"TRD Off-Road Premium",
+    "Year":2023,
+    "Color":"Magnetic Gray Metallic",
+    "Base MSRP":45980,
+    "Dealer Price":45980.0,
+    "Shipping Status":"Factory to port",
+    "Hold Status":"Available",
+    "Pre-Sold":"No",
+    "Dealer":"Hanover Toyota"
+  },
+  {
     "VIN":"JTERU5JR9P6142209",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -56172,18 +55128,6 @@
     "Dealer":"Jerry Ackerman Toyota"
   },
   {
-    "VIN":"JTERU5JR9P6142436",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Lunar Rock",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Larry H. Miller Toyota Murray"
-  },
-  {
     "VIN":"JTERU5JR9P6142517",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -56242,18 +55186,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Hall Toyota Virginia Beach"
-  },
-  {
-    "VIN":"JTERU5JRXP112CX63",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Lunar Rock",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Bill Penney Toyota"
   },
   {
     "VIN":"JTERU5JRXP6118890",
@@ -56496,18 +55428,6 @@
     "Dealer":"Bruner Toyota"
   },
   {
-    "VIN":"JTERU5JRXP6133258",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Barcelona Red Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Koons Toyota"
-  },
-  {
     "VIN":"JTERU5JRXP6133454",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -56610,7 +55530,7 @@
     "Color":"Magnetic Gray Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"McGeorge Toyota"
@@ -56622,7 +55542,7 @@
     "Color":"Nautical Blue Metallic",
     "Base MSRP":45980,
     "Dealer Price":45980.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Longo Toyota of Prosper"
@@ -56650,18 +55570,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"Yes",
     "Dealer":"Crown Toyota"
-  },
-  {
-    "VIN":"JTERU5JRXP6135057",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Beaverton Toyota"
   },
   {
     "VIN":"JTERU5JRXP6135222",
@@ -56710,18 +55618,6 @@
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Serra Toyota of Decatur"
-  },
-  {
-    "VIN":"JTERU5JRXP6135480",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"Port to dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Tracy Toyota"
   },
   {
     "VIN":"JTERU5JRXP6135561",
@@ -56866,18 +55762,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Royal South Toyota"
-  },
-  {
-    "VIN":"JTERU5JRXP6136936",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":null,
-    "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"McKinnon Toyota"
   },
   {
     "VIN":"JTERU5JRXP6136998",
@@ -57060,18 +55944,6 @@
     "Dealer":"Central Maine Toyota"
   },
   {
-    "VIN":"JTERU5JRXP6138203",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Classic Silver Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Peter Boulware Toyota of Columbia"
-  },
-  {
     "VIN":"JTERU5JRXP6138251",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -57238,6 +56110,18 @@
     "Hold Status":null,
     "Pre-Sold":"No",
     "Dealer":"Larry H. Miller Toyota Murray"
+  },
+  {
+    "VIN":"JTERU5JRXP6139139",
+    "Model":"TRD Off-Road Premium",
+    "Year":2023,
+    "Color":"Magnetic Gray Metallic",
+    "Base MSRP":45980,
+    "Dealer Price":45980.0,
+    "Shipping Status":"At dealer",
+    "Hold Status":null,
+    "Pre-Sold":"No",
+    "Dealer":"Toyota Marin"
   },
   {
     "VIN":"JTERU5JRXP6139271",
@@ -58193,11 +57077,11 @@
     "Year":2023,
     "Color":"Lunar Rock",
     "Base MSRP":44290,
-    "Dealer Price":46669.0,
+    "Dealer Price":44290.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Gullo Toyota of Conroe"
+    "Pre-Sold":"Yes",
+    "Dealer":"Caldwell Toyota"
   },
   {
     "VIN":"JTESU5JR1P6135899",
@@ -58253,7 +57137,7 @@
     "Year":2023,
     "Color":"Lunar Rock",
     "Base MSRP":44290,
-    "Dealer Price":44290.0,
+    "Dealer Price":47185.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
     "Pre-Sold":"No",
@@ -58326,7 +57210,7 @@
     "Color":"Classic Silver Metallic",
     "Base MSRP":44290,
     "Dealer Price":44290.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"At dealer",
     "Hold Status":"Available",
     "Pre-Sold":"Yes",
     "Dealer":"John Harvey Toyota"
@@ -58364,7 +57248,7 @@
     "Dealer Price":44290.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Don McGill Toyota of Katy"
   },
   {
@@ -58484,7 +57368,7 @@
     "Dealer Price":44290.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"AutoNation Toyota South Austin"
   },
   {
@@ -58532,7 +57416,7 @@
     "Dealer Price":44290.0,
     "Shipping Status":"Factory to port",
     "Hold Status":null,
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Rivera Toyota of Mt. Kisco"
   },
   {
@@ -58896,18 +57780,6 @@
     "Dealer":"Nye Toyota"
   },
   {
-    "VIN":"JTESU5JR6P6127443",
-    "Model":"TRD Sport",
-    "Year":2023,
-    "Color":"Nautical Blue Metallic",
-    "Base MSRP":44290,
-    "Dealer Price":44290.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Priority Toyota Hampton"
-  },
-  {
     "VIN":"JTESU5JR6P6132092",
     "Model":"TRD Sport",
     "Year":2023,
@@ -59072,7 +57944,7 @@
     "Dealer Price":44290.0,
     "Shipping Status":"Factory to port",
     "Hold Status":null,
-    "Pre-Sold":"Yes",
+    "Pre-Sold":"No",
     "Dealer":"Romano Toyota"
   },
   {
@@ -59230,6 +58102,18 @@
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Fred Haas Toyota Country"
+  },
+  {
+    "VIN":"JTESU5JR7P6139701",
+    "Model":"TRD Sport",
+    "Year":2023,
+    "Color":"Ice Cap",
+    "Base MSRP":44290,
+    "Dealer Price":44290.0,
+    "Shipping Status":"Port to dealer",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"No",
+    "Dealer":"Toyota of Gladstone"
   },
   {
     "VIN":"JTESU5JR8P6130523",
@@ -59395,21 +58279,9 @@
     "Base MSRP":44290,
     "Dealer Price":44290.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Interstate Toyota"
-  },
-  {
-    "VIN":"JTESU5JR9P6130983",
-    "Model":"TRD Sport",
-    "Year":2023,
-    "Color":"Nautical Blue Metallic",
-    "Base MSRP":44290,
-    "Dealer Price":45388.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Toyota of Cedar Park"
   },
   {
     "VIN":"JTESU5JR9P6135794",
@@ -59489,7 +58361,7 @@
     "Year":2023,
     "Color":"Classic Silver Metallic",
     "Base MSRP":44290,
-    "Dealer Price":44290.0,
+    "Dealer Price":45785.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
     "Pre-Sold":"No",
@@ -59875,7 +58747,7 @@
     "Base MSRP":47120,
     "Dealer Price":47120.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":null,
+    "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Oakbrook Toyota in Westmont"
   },
@@ -60094,18 +58966,6 @@
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Nye Toyota"
-  },
-  {
-    "VIN":"JTEUU5JR1P6128895",
-    "Model":"40th",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":47120,
-    "Dealer Price":47120.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Elko Toyota"
   },
   {
     "VIN":"JTEUU5JR1P6129500",
@@ -60672,16 +59532,16 @@
     "Dealer":"Pat Lobb Toyota of McKinney"
   },
   {
-    "VIN":"JTEUU5JR3P6130373",
+    "VIN":"JTEUU5JR3P6129305",
     "Model":"40th",
     "Year":2023,
     "Color":"Midnight Black Metallic",
     "Base MSRP":47120,
     "Dealer Price":47120.0,
     "Shipping Status":"At dealer",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
-    "Dealer":"Ken Ganley Toyota"
+    "Dealer":"Lloyds Toyota"
   },
   {
     "VIN":"JTEUU5JR3P6130406",
@@ -61116,18 +59976,6 @@
     "Dealer":"Galaxy Toyota"
   },
   {
-    "VIN":"JTEUU5JR5P6128527",
-    "Model":"40th",
-    "Year":2023,
-    "Color":"Midnight Black Metallic",
-    "Base MSRP":47120,
-    "Dealer Price":47120.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Motor Inn Toyota of Carroll"
-  },
-  {
     "VIN":"JTEUU5JR5P6128804",
     "Model":"40th",
     "Year":2023,
@@ -61267,8 +60115,8 @@
     "Base MSRP":47120,
     "Dealer Price":47120.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":null,
-    "Pre-Sold":"No",
+    "Hold Status":"DealerHold",
+    "Pre-Sold":"Yes",
     "Dealer":"Faulkner Toyota"
   },
   {
@@ -61351,7 +60199,7 @@
     "Base MSRP":47120,
     "Dealer Price":47120.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":null,
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"United Toyota"
   },
@@ -61392,25 +60240,13 @@
     "Dealer":"Jeff Wyler Toyota of Clarksville"
   },
   {
-    "VIN":"JTEUU5JR6P6128066",
-    "Model":"40th",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":47120,
-    "Dealer Price":47120.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Olathe Toyota"
-  },
-  {
     "VIN":"JTEUU5JR6P6128438",
     "Model":"40th",
     "Year":2023,
     "Color":"Midnight Black Metallic",
     "Base MSRP":47120,
     "Dealer Price":null,
-    "Shipping Status":"Port to dealer",
+    "Shipping Status":"At dealer",
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Dan Cava's Toyota World"
@@ -61858,18 +60694,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"T J Toyota"
-  },
-  {
-    "VIN":"JTEUU5JR7P6137942",
-    "Model":"40th",
-    "Year":2023,
-    "Color":"Midnight Black Metallic",
-    "Base MSRP":47120,
-    "Dealer Price":47120.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"Available",
-    "Pre-Sold":"Yes",
-    "Dealer":"Capitol Toyota of Salem"
   },
   {
     "VIN":"JTEUU5JR7P6138220",
@@ -62647,7 +61471,7 @@
     "Base MSRP":47120,
     "Dealer Price":47120.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Olathe Toyota"
   },
