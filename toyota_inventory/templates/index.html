@@ -1,0 +1,120 @@
+{% extends 'base.html' %}
+{% block content %}
+<div class="container py-5">
+    <div class="row">
+        <div class="col-4">
+            <figure class="figure">
+                <img src="{{ url_for('static', filename='garin-chadwick-NImPMBE8m-U-unsplash.jpg') }}"
+                    class="figure-img img-fluid rounded" alt="...">
+                <figcaption class="figure-caption">
+                    Photo credit:
+                    <a href="https://unsplash.com/photos/NImPMBE8m-U">
+                        Garin Chadwick
+                    </a>
+                </figcaption>
+            </figure>
+        </div>
+        <div class="col-6 text-middle">
+            <h1 class="fw-medium">Welcome!</h1>
+            <p class="lead">
+                After searching high and low for the 4Runner I wanted, I knew there had
+                to be a better way. This site offers a <span class="fw-bold">very
+                    unofficial</span>
+                method for tracking Toyota 4Runner inventory across the USA.
+            </p>
+            <p class="lead">
+                This data is updated daily and is not guaranteed to be accurate. The
+                site currently tracks
+                <span class="fw-bold">
+                    {{ "{:,}".format(total_vehicles) }}
+                </span>
+                vehicles!
+            </p>
+            <p class="lead">
+                The source code is on <a href="https://github.com/major/toyota-inventory">GitHub</a>.
+            </p>
+        </div>
+        <div class="col"></div>
+    </div>
+</div>
+
+<div class="container py-5">
+    <div class="row">
+        <div class="col">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Search by Model</h5>
+                    <p class="card-text">
+                        Get a listing of available vehicles based on your preferred trim level.
+                    </p>
+                    <div class="text-center">
+                        {% for model, count in models.items() %}
+                        {% set model_url = model.replace(' ', '_') %}
+                        <p>
+                            <a class="card-link" href="{{ url_for('vehicles_by_model', model=model_url) }}">
+                                {{ model }} ({{ "{:,}".format(count) }})
+                            </a>
+                        </p>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Search by Color</h5>
+                    <p class="card-text">
+                        Is your mind made up on a particular color? Go straight to listings by exterior color.
+                    </p>
+                    <div class="text-center">
+                        {% for color, count in colors.items() %}
+                        {% set color_url = color.replace(' ', '_') %}
+                        <p>
+                            <a class="card-link" href="{{ url_for('vehicles_by_color', color=color_url) }}">
+                                {{ color }} ({{ "{:,}".format(count) }})
+                            </a>
+                        </p>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card">
+                <div class="card-body">
+                    <h5 class="card-title">Search by Status</h5>
+                    <p class="card-text">
+                        Want to see which vehicles are at a dealership or are on the way
+                        to a dealer? List vehicles by their status.
+                    </p>
+                    <div class="text-center">
+                        {% for status, count in statuses.items() %}
+                        {% set status_url = status.replace(' ', '_') %}
+                        <p>
+                            <a class="card-link" href="{{ url_for('vehicles_by_status', status=status_url) }}">
+                                {{ status }} ({{ "{:,}".format(count) }})
+                            </a>
+                        </p>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container text-center py-3">
+    <div class="row">
+        <div class="col"></div>
+        <div class="col-6">
+            <h3>Can't decide how you want to search?</h3>
+            <p>
+                Load up the <a href="{{ url_for('all_vehicles') }}">full listing </a> to
+                search and sort by whatever columns you want.
+            </p>
+        </div>
+        <div class="col"></div>
+    </div>
+</div>
+{% endblock %}

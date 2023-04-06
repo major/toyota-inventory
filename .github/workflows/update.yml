@@ -11,8 +11,12 @@ on:
 
 permissions:
   contents: write
-  pages: write
   id-token: write
+  pages: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -44,3 +48,15 @@ jobs:
           timestamp=$(date -u)
           git commit -m "Latest data: ${timestamp}" || exit 0
           git push
+
+      - name: Freeze the Flask site
+        run: poetry run python app/freeze.py
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          path: toyota_inventory/build
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
