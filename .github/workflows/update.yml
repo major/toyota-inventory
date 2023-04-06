@@ -21,19 +21,20 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Install poetry
+        run: pipx install poetry
+
       - name: Set up Python 3.11
         uses: actions/setup-python@v4
         with:
           python-version: "3.11"
-          cache: "pip"
+          cache: "poetry"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: poetry install --no-dev
 
       - name: Run script
-        run: ./get_cars.py
-        env:
-          PYTHONUNBUFFERED: 1
+        run: poetry run get_cars
 
       - name: Commit and push if it changed
         run: |-

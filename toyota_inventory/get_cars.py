@@ -206,40 +206,46 @@ def make_view(df):
     )
 
 
-if QUERY_LOCAL_DATA:
-    raw_df = query_local_data()
-else:
-    raw_df = get_all_vehicles()
+def main():
+    """You might call this the main function. You would be right."""
+    if QUERY_LOCAL_DATA:
+        raw_df = query_local_data()
+    else:
+        raw_df = get_all_vehicles()
 
-df = make_view(raw_df)
-df = cleanup_columns(df)
-df = translate_status(df)
-df = translate_presold(df)
+    df = make_view(raw_df)
+    df = cleanup_columns(df)
+    df = translate_status(df)
+    df = translate_presold(df)
 
-# Get column ordering just right.
-df = df.reindex(
-    columns=[
-        "VIN",
-        "Model",
-        "Year",
-        "Color",
-        "Base MSRP",
-        "Dealer Price",
-        "Shipping Status",
-        "Hold Status",
-        "Pre-Sold",
-        "Dealer",
-    ]
-)
+    # Get column ordering just right.
+    df = df.reindex(
+        columns=[
+            "VIN",
+            "Model",
+            "Year",
+            "Color",
+            "Base MSRP",
+            "Dealer Price",
+            "Shipping Status",
+            "Hold Status",
+            "Pre-Sold",
+            "Dealer",
+        ]
+    )
 
-# Sort by VIN to avoid lots of repo churn.
-df = df.sort_values(["VIN"], ascending=[True])
-raw_df = raw_df.sort_values(["vin"], ascending=[True])
+    # Sort by VIN to avoid lots of repo churn.
+    df = df.sort_values(["VIN"], ascending=[True])
+    raw_df = raw_df.sort_values(["vin"], ascending=[True])
 
-# Write to the markdown file.
-df.info()
-df.to_markdown("vehicles.md", index=False)
+    # Write to the markdown file.
+    df.info()
+    # df.to_markdown("vehicles.md", index=False)
 
-# Write JSON files, too.
-df.to_json("vehicles.json", orient="records", indent=2)
-raw_df.to_json("vehicles_raw.json", orient="records", indent=2)
+    # Write JSON files, too.
+    df.to_json("vehicles.json", orient="records", indent=2)
+    raw_df.to_json("vehicles_raw.json", orient="records", indent=2)
+
+
+if __name__ == "__main__":
+    main()
