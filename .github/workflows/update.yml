@@ -50,7 +50,7 @@ jobs:
           git push
 
       - name: Freeze the Flask site
-        run: poetry run python app/freeze.py
+        run: poetry run python toyota_inventory/freeze.py
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
