@@ -34,6 +34,7 @@
                     <td>MSRP</td>
                     <th>Dealer Price</th>
                     <th>Markup</th>
+                    <th>Status</th>
                     <th>Pre-Sold</th>
                     <th>Dealer Hold</th>
                     <th>Dealer</th>
@@ -57,6 +58,7 @@
                             {% endif %}
 
                         </td>
+                        <td>{{ r['dealerCategory'] }}</td>
                         <td>
                             {% if r['isPreSold'] %}
                             <span class="badge text-bg-danger">Pre-Sold</span>

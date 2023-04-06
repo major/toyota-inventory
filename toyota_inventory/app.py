@@ -12,9 +12,14 @@ def load_vehicles():
     if not hasattr(app, "vehicles"):
         with open("vehicles_raw.json", "r") as fileh:
             df = pd.json_normalize(json.load(fileh))
+
             df["price.dioTotalDealerSellingPrice"] = df[
                 "price.dioTotalDealerSellingPrice"
             ].fillna(value=0)
+
+            statuses = {"A": "Factory to port", "F": "Port to dealer", "G": "At dealer"}
+            df = df.replace({"dealerCategory": statuses})
+
             app.vehicles = df
 
     return app.vehicles
@@ -40,8 +45,7 @@ def all_models():
 
 def all_statuses():
     """Get all delivery statuses"""
-    statuses = {"A": "Factory to port", "F": "Port to dealer", "G": "At dealer"}
-    df = load_vehicles().replace({"dealerCategory": statuses})
+    df = load_vehicles()
     df = df.groupby(["dealerCategory"])["dealerCategory"].count()
     return df.to_dict()
 
