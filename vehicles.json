@@ -1362,7 +1362,7 @@
     "Color":"Nautical Blue Metallic",
     "Base MSRP":42415,
     "Dealer Price":49915.0,
-    "Shipping Status":"Factory to port",
+    "Shipping Status":"Port to dealer",
     "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Texas Toyota of Grapevine"
@@ -20561,7 +20561,7 @@
     "Year":2023,
     "Color":"Blizzard Pearl",
     "Base MSRP":50825,
-    "Dealer Price":null,
+    "Dealer Price":50825.0,
     "Shipping Status":"Factory to port",
     "Hold Status":null,
     "Pre-Sold":"No",
@@ -23012,7 +23012,7 @@
     "Dealer Price":51220.0,
     "Shipping Status":"Port to dealer",
     "Hold Status":"Available",
-    "Pre-Sold":"Yes",
+    "Pre-Sold":"No",
     "Dealer":"Toyota of Olympia"
   },
   {
@@ -24922,6 +24922,18 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Lithia Toyota of Redding"
+  },
+  {
+    "VIN":"JTELU5JR0P6135185",
+    "Model":"TRD Pro",
+    "Year":2023,
+    "Color":"Ice Cap",
+    "Base MSRP":54020,
+    "Dealer Price":62132.0,
+    "Shipping Status":"At dealer",
+    "Hold Status":"Available",
+    "Pre-Sold":"Yes",
+    "Dealer":"Norm Reeves Toyota San Diego"
   },
   {
     "VIN":"JTELU5JR0P6135431",
@@ -30260,7 +30272,7 @@
     "Dealer Price":54020.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"Freeman Toyota"
   },
   {
@@ -35407,7 +35419,7 @@
     "Base MSRP":41430,
     "Dealer Price":41430.0,
     "Shipping Status":"Port to dealer",
-    "Hold Status":null,
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Toyota Direct"
   },
@@ -43572,18 +43584,6 @@
     "Dealer":"Moses Toyota"
   },
   {
-    "VIN":"JTENU5JR1P6133504",
-    "Model":"SR5 Premium",
-    "Year":2023,
-    "Color":"Magnetic Gray Metallic",
-    "Base MSRP":44490,
-    "Dealer Price":44490.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"Yes",
-    "Dealer":"Westboro Toyota, Inc."
-  },
-  {
     "VIN":"JTENU5JR1P6133731",
     "Model":"SR5 Premium",
     "Year":2023,
@@ -50820,6 +50820,18 @@
     "Dealer":"Peruzzi Toyota"
   },
   {
+    "VIN":"JTENU5JR5P6144411",
+    "Model":"SR5 Premium",
+    "Year":2023,
+    "Color":"Ice Cap",
+    "Base MSRP":44490,
+    "Dealer Price":44490.0,
+    "Shipping Status":"Factory to port",
+    "Hold Status":"Available",
+    "Pre-Sold":"No",
+    "Dealer":"Family Toyota of Burleson"
+  },
+  {
     "VIN":"JTENU5JR5P6144554",
     "Model":"SR5 Premium",
     "Year":2023,
@@ -55524,6 +55536,18 @@
     "Dealer":"Damian Lillard Toyota"
   },
   {
+    "VIN":"JTENU5JR8P6144869",
+    "Model":"SR5 Premium",
+    "Year":2023,
+    "Color":"Ice Cap",
+    "Base MSRP":44490,
+    "Dealer Price":44490.0,
+    "Shipping Status":"Factory to port",
+    "Hold Status":null,
+    "Pre-Sold":"No",
+    "Dealer":"Stevinson Toyota East"
+  },
+  {
     "VIN":"JTENU5JR8P6145276",
     "Model":"SR5 Premium",
     "Year":2023,
@@ -56172,18 +56196,6 @@
     "Dealer":"Silsbee Toyota"
   },
   {
-    "VIN":"JTENU5JR9P6133556",
-    "Model":"SR5 Premium",
-    "Year":2023,
-    "Color":"Nautical Blue Metallic",
-    "Base MSRP":44490,
-    "Dealer Price":44490.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"Yes",
-    "Dealer":"First Team Toyota"
-  },
-  {
     "VIN":"JTENU5JR9P6134027",
     "Model":"SR5 Premium",
     "Year":2023,
@@ -56636,7 +56648,7 @@
     "Dealer Price":44490.0,
     "Shipping Status":"Factory to port",
     "Hold Status":"Available",
-    "Pre-Sold":"No",
+    "Pre-Sold":"Yes",
     "Dealer":"AutoNation Toyota South Austin"
   },
   {
@@ -57511,7 +57523,7 @@
     "Base MSRP":44490,
     "Dealer Price":44490.0,
     "Shipping Status":"At dealer",
-    "Hold Status":"Available",
+    "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Right Toyota"
   },
@@ -58750,18 +58762,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Joseph Toyota of Cincinnati"
-  },
-  {
-    "VIN":"JTENU5JRXP6149071",
-    "Model":"SR5 Premium",
-    "Year":2023,
-    "Color":"Ice Cap",
-    "Base MSRP":44490,
-    "Dealer Price":44490.0,
-    "Shipping Status":"Factory to port",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Stevinson Toyota East"
   },
   {
     "VIN":"JTENU5JRXP6149071",
@@ -65023,7 +65023,7 @@
     "Base MSRP":45980,
     "Dealer Price":45980.0,
     "Shipping Status":"Factory to port",
-    "Hold Status":"DealerHold",
+    "Hold Status":"Available",
     "Pre-Sold":"No",
     "Dealer":"Brunswick Toyota"
   },
@@ -69144,18 +69144,6 @@
     "Dealer":"Centennial Toyota"
   },
   {
-    "VIN":"JTERU5JR3P6136518",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Lunar Rock",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Dick Hannah Toyota"
-  },
-  {
     "VIN":"JTERU5JR3P6136647",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -72478,18 +72466,6 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Checkered Flag Toyota"
-  },
-  {
-    "VIN":"JTERU5JR4P6138276",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Midnight Black Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Thompson's Toyota of Placerville"
   },
   {
     "VIN":"JTERU5JR4P6138309",
@@ -87420,18 +87396,6 @@
     "Dealer":"Kirk Toyota"
   },
   {
-    "VIN":"JTERU5JR9P6138158",
-    "Model":"TRD Off-Road Premium",
-    "Year":2023,
-    "Color":"Midnight Black Metallic",
-    "Base MSRP":45980,
-    "Dealer Price":45980.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":"DealerHold",
-    "Pre-Sold":"No",
-    "Dealer":"Carson City Toyota"
-  },
-  {
     "VIN":"JTERU5JR9P6138175",
     "Model":"TRD Off-Road Premium",
     "Year":2023,
@@ -92866,6 +92830,18 @@
     "Hold Status":"DealerHold",
     "Pre-Sold":"No",
     "Dealer":"Burien Toyota"
+  },
+  {
+    "VIN":"JTERU5JRXP6148262",
+    "Model":"TRD Off-Road Premium",
+    "Year":2023,
+    "Color":"Classic Silver Metallic",
+    "Base MSRP":45980,
+    "Dealer Price":45980.0,
+    "Shipping Status":"Factory to port",
+    "Hold Status":"Available",
+    "Pre-Sold":"No",
+    "Dealer":"Tony Divino Toyota"
   },
   {
     "VIN":"JTERU5JRXP6148407",
