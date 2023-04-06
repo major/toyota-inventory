@@ -7,7 +7,7 @@ import pandas as pd
 import requests
 
 # Set this to True to query local data instead of Toyota's API.
-QUERY_LOCAL_DATA = False
+QUERY_LOCAL_DATA = True
 
 GRAPHQL_QUERY = """query {
   locateVehiclesByZip(
