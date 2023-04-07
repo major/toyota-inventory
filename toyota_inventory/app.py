@@ -1,4 +1,5 @@
 """Main flask application."""
+from datetime import datetime
 import json
 
 from flask import Flask, render_template
@@ -53,6 +54,7 @@ def all_statuses():
 @app.context_processor
 def inject_global_template_variables():
     return dict(
+        now=datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S %Z"),
         models=all_models(),
         colors=all_colors(),
         statuses=all_statuses(),

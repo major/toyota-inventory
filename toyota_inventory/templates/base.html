@@ -87,8 +87,14 @@
     {% block content %}{% endblock %}
 
     <div class="sticky-bottom py-2 text-center text-secondary-emphasis bg-secondary-subtle">
-        This site is not affiliated with Toyota in any way and the data is not
-        guaranteed to be accurate. | <a href="https://github.com/major/toyota-inventory">Source code on GitHub</a>
+        <div class="row">
+            <div class="col">
+                This site is not affiliated with Toyota in any way and the data is not
+                guaranteed to be accurate.<br />
+                <a href="https://github.com/major/toyota-inventory">Source code on GitHub</a> |
+                Last updated: {{ now }}
+            </div>
+        </div>
     </div>
 </body>
 
