@@ -34,9 +34,9 @@
                     <td>MSRP</td>
                     <th>Dealer Price</th>
                     <th>Markup</th>
-                    <th>Status</th>
-                    <th>Pre-Sold</th>
-                    <th>Dealer Hold</th>
+                    <th class="text-center">Status</th>
+                    <th class="text-center">Pre-Sold</th>
+                    <th class="text-center">Dealer Hold</th>
                     <th>Dealer</th>
                     <th>VIN</th>
                 </thead>
@@ -58,15 +58,23 @@
                             {% endif %}
 
                         </td>
-                        <td>{{ r['dealerCategory'] }}</td>
-                        <td>
+                        <td class="text-center">
+                            {% if r['dealerCategory'] == "At dealer" %}
+                            <span class="badge text-bg-success">At dealer</span>
+                            {% elif r['dealerCategory'] == "Port to dealer" %}
+                            <span class="badge text-bg-warning">Port to dealer</span>
+                            {% elif r['dealerCategory'] == "Factory to port" %}
+                            <span class="badge text-bg-secondary">Factory to port</span>
+                            {% endif %}
+                        </td>
+                        <td class="text-center">
                             {% if r['isPreSold'] %}
                             <span class="badge text-bg-danger">Pre-Sold</span>
                             {% else %}
                             <span class="badge text-bg-success">For Sale</span>
                             {% endif %}
                         </td>
-                        <td>
+                        <td class="text-center">
                             {% if r['holdStatus'] == 'DealerHold' %}
                             <span class="badge text-bg-danger">On Hold At Dealer</span>
                             {% elif r['holdStatus'] == 'Available' %}
