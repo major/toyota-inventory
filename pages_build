@@ -1,0 +1,7 @@
+#!/bin/bash
+# Build in Clouflare Pages
+
+pip install pipx
+pipx install poetry
+poetry install --no-dev
+poetry run python toyota_inventory/freeze.py
