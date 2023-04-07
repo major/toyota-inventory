@@ -47,3 +47,12 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
+
+      - name: Publish to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: acb9035968f7981fb5f2c995fe1d55bc
+          projectName: toyota-inventory
+          directory: toyota_inventory/build
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
