@@ -10,16 +10,17 @@ on:
   workflow_dispatch:
 
 permissions:
+  actions: write
   contents: write
   id-token: write
-  pages: write
 
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
 jobs:
-  build:
+  update:
+    name: "Update data"
     runs-on: ubuntu-latest
 
     steps:
@@ -51,14 +52,14 @@ jobs:
           git commit -m "Latest data: ${timestamp}" || exit 0
           git push
 
-      - name: Freeze the Flask site
-        run: poetry run python toyota_inventory/freeze.py
+  rebuild_website:
+    name: "Rebuild website"
+    runs-on: ubuntu-latest
+    needs: ["Update data"]
+    steps:
+      - uses: "actions/checkout@v3"
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
-        with:
-          path: toyota_inventory/build
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2
+      - name: Launch the website rebuild workflow
+        run: gh workflow run website.yml
+        env:
+          GH_TOKEN: ${{ github.token }}
