@@ -55,7 +55,7 @@ jobs:
   rebuild_website:
     name: "Rebuild website"
     runs-on: ubuntu-latest
-    needs: ["Update data"]
+    needs: [update]
     steps:
       - uses: "actions/checkout@v3"
 
