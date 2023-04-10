@@ -26,17 +26,13 @@
 <div class="container-lg py-2">
     <div class="row">
         <div class="col">
-            <table id="vehicles" class="table table-striped table-hover">
+            <table id="vehicles" class="table table-striped table-hover table-responsive">
                 <thead>
-                    <th>Year</th>
                     <th>Model</th>
                     <th>Color</th>
-                    <td>MSRP</td>
                     <th>Dealer Price</th>
-                    <th>Markup</th>
+                    <th>Dealer Markup</th>
                     <th class="text-center">Status</th>
-                    <th class="text-center">Pre-Sold</th>
-                    <th class="text-center">Dealer Hold</th>
                     <th>Dealer</th>
                     <th>VIN</th>
                 </thead>
@@ -45,10 +41,11 @@
                     {% set total_price = r['price.baseMsrp'] + (r['price.dioTotalDealerSellingPrice']) %}
                     {% set markup = (r['price.dioTotalDealerSellingPrice'] | default(0)) %}
                     <tr>
-                        <td>{{ r['year'] }}</td>
-                        <td>{{ r['model.marketingName'].replace(" Special Edition", "") }}</td>
+                        <td>
+                            {{ r['year'] }}
+                            {{ r['model.marketingName'].replace(" Special Edition", "") }}
+                        </td>
                         <td>{{ r['extColor.marketingName'] }}</td>
-                        <td>{{ "${:,.0f}".format(r['price.baseMsrp']) }}</td>
                         <td>{{ "${:,.0f}".format(total_price) }}</td>
                         <td>
                             {% if markup > 0 %}
@@ -60,25 +57,22 @@
                         </td>
                         <td class="text-center">
                             {% if r['dealerCategory'] == "At dealer" %}
-                            <span class="badge text-bg-success">At dealer</span>
+                            <!-- <span class="badge text-bg-success">At dealer</span> -->
                             {% elif r['dealerCategory'] == "Port to dealer" %}
                             <span class="badge text-bg-warning">Port to dealer</span>
                             {% elif r['dealerCategory'] == "Factory to port" %}
                             <span class="badge text-bg-secondary">Factory to port</span>
                             {% endif %}
-                        </td>
-                        <td class="text-center">
+
                             {% if r['isPreSold'] %}
                             <span class="badge text-bg-danger">Pre-Sold</span>
                             {% else %}
-                            <span class="badge text-bg-success">For Sale</span>
+                            <!-- <span class="badge text-bg-success">For Sale</span> -->
                             {% endif %}
-                        </td>
-                        <td class="text-center">
                             {% if r['holdStatus'] == 'DealerHold' %}
-                            <span class="badge text-bg-danger">On Hold At Dealer</span>
+                            <span class="badge text-bg-danger">Dealer Hold</span>
                             {% elif r['holdStatus'] == 'Available' %}
-                            <span class="badge text-bg-success">No Dealer Holds</span>
+                            <!-- <span class="badge text-bg-success">No Dealer Holds</span> -->
                             {% endif %}
                         </td>
                         <td>
@@ -114,7 +108,7 @@
     $(document).ready(function () {
         var table = $("#vehicles").DataTable({
             orderCellsTop: true,
-            order: [[4, 'asc']],
+            order: [[2, 'asc']],
             "lengthMenu": [
                 [35, 100, -1],
                 [35, 100, "All"]
