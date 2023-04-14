@@ -21,13 +21,13 @@
     <nav class="navbar navbar-expand-lg text-secondary-emphasis bg-secondary-subtle">
         <div class="container-fluid">
             <a class="navbar-brand" href="{{ url_for('index') }}">
-                4Runner Tracker <span class="badge text-bg-primary">UNOFFICIAL</span>
+                4Runner Inventory Tracker
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
                 aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <div class="collapse navbar-collapse" id="navbarText">
+            <div class="collapse navbar-collapse px-4" id="navbarText">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
@@ -78,12 +78,13 @@
                         </ul>
                     </li>
                 </ul>
-                <span class="navbar-text">
-                    Not affiliated with Toyota
-                </span>
             </div>
         </div>
     </nav>
+    <div class="container-fluid text-center p-1 bg-danger-subtle text-uppercase fw-bold text-white">
+        This site is not affiliated with or endorsed by Toyota.
+        Accuracy is not guaranteed.
+    </div>
     {% block content %}{% endblock %}
 
     <div class="py-2 text-center text-secondary-emphasis bg-secondary-subtle">

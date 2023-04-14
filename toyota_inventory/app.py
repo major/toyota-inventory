@@ -18,12 +18,34 @@ def load_vehicles():
                 "price.dioTotalDealerSellingPrice"
             ].fillna(value=0)
 
+            df["dealerCd"] = df["dealerCd"].apply(pd.to_numeric)
+
+            # Reduce some model names down a bit.
+            model_key = "model.marketingName"
+            df[model_key] = df[model_key].str.replace("4Runner ", "")
+            df[model_key] = df[model_key].str.replace(
+                "Anniversary Special Edition", "Anniversary"
+            )
+            df[model_key] = df[model_key].str.replace("Off-Road Premium", "ORP")
+
             statuses = {"A": "Factory to port", "F": "Port to dealer", "G": "At dealer"}
             df = df.replace({"dealerCategory": statuses})
+
+            dealers = load_dealers()[["dealerId", "state"]]
+            df = df.merge(dealers, left_on="dealerCd", right_on="dealerId")
 
             app.vehicles = df
 
     return app.vehicles
+
+
+def load_dealers():
+    """Load the dealer data from the CSV."""
+    if not hasattr(app, "dealers"):
+        df = pd.read_csv("dealers.csv")
+        app.dealers = df
+
+    return app.dealers
 
 
 def all_colors():
@@ -39,7 +61,6 @@ def all_models():
     """Get the 4Runner model names."""
     model_key = "model.marketingName"
     df = load_vehicles()
-    df[model_key] = df[model_key].str.replace("4Runner ", "")
     df = load_vehicles().groupby([model_key])[model_key].count()
     return df.to_dict()
 

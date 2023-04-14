@@ -1,6 +1,6 @@
 {% extends 'base.html' %}
 {% block content %}
-<div class="container py-5">
+<div class="container py-4">
     <div class="row">
         <div class="col-4">
             <figure class="figure">
@@ -23,22 +23,24 @@
                 method for tracking Toyota 4Runner inventory across the USA.
             </p>
             <p class="lead">
-                This data is updated daily and is not guaranteed to be accurate. The
-                site currently tracks
+                Automated scripts update the data once a day around
+                <a href="https://time.is/compare/0400AM_in_UTC">4AM UTC</a>.
+                The site currently tracks
                 <span class="fw-bold">
                     {{ "{:,}".format(total_vehicles) }}
                 </span>
                 vehicles!
             </p>
             <p class="lead">
-                The source code is on <a href="https://github.com/major/toyota-inventory">GitHub</a>.
+                Found a bug? Have an idea for improvements?
+                Open an issue or pull request on <a href="https://github.com/major/toyota-inventory">GitHub</a>.
             </p>
         </div>
 
     </div>
 </div>
 
-<div class="container py-5">
+<div class="container py-4">
     <div class="row">
         <div class="col">
             <div class="card">
@@ -67,15 +69,15 @@
                     <p class="card-text">
                         Is your mind made up on a particular color? Go straight to listings by exterior color.
                     </p>
-                    <div class="text-center">
+                    <div class="card-body">
                         {% for color, count in colors.items() %}
-                        {% set color_url = color.replace(' ', '_') %}
                         <p>
+                            {% set color_url = color.replace(' ', '_') %}
                             <a class="card-link" href="{{ url_for('vehicles_by_color', color=color_url) }}">
                                 {{ color }} ({{ "{:,}".format(count) }})
                             </a>
+                            {% endfor %}
                         </p>
-                        {% endfor %}
                     </div>
                 </div>
             </div>
@@ -110,7 +112,7 @@
         <div class="col-6">
             <h3>Can't decide how you want to search?</h3>
             <p>
-                Load up the <a href="{{ url_for('all_vehicles') }}">full listing </a> to
+                Load up the <a href="{{ url_for('all_vehicles') }}">full listing</a> to
                 search and sort by whatever columns you want.
             </p>
         </div>
