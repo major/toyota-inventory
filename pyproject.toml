@@ -22,5 +22,5 @@ requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
 
 [tool.poetry.scripts]
-get_cars = 'toyota_inventory.get_cars:main'
+get_4runners = 'toyota_inventory.get_4runners:main'
 run_flask = 'toyota_inventory.app:main'

@@ -8,7 +8,7 @@
         background-position: center;
         background-image: url('{{ url_for("static", filename="garin-chadwick-NImPMBE8m-U-unsplash.jpg") }}');
         min-height: 300px;
-        height: 50vh;
+        height: 40vh;
     }
 </style>
 {% endblock %}
@@ -53,66 +53,113 @@
     </div>
 </div>
 
-<div class="container py-4">
-    <div class="row">
-        <div class="col">
-            <div class="card">
-                <div class="card-body">
-                    <h5 class="card-title">Search by Model</h5>
-                    <p class="card-text">
-                        Get a listing of available vehicles based on your preferred trim level.
-                    </p>
-                    <div class="text-center">
-                        {% for model, count in models.items() %}
-                        {% set model_url = model.replace(' ', '_') %}
-                        <p>
+<div class="container">
+    <div class="row row-cols-1 row-cols-md-2 g-4">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Model Stats</h5>
+                <p class="card-text">
+                    This is a ranked list of models based on currently available inventory.
+                </p>
+                <div class="container">
+                    {% for _, r in models.sort_values('Percentage', ascending=False).iterrows() %}
+                    {% set model_url = r.Model.replace(' ', '_') %}
+                    <div class="row">
+                        <div class="col-6">
                             <a class="card-link" href="{{ url_for('vehicles_by_model', model=model_url) }}">
-                                {{ model }} ({{ "{:,}".format(count) }})
+                                {{ r.Model }}
                             </a>
-                        </p>
-                        {% endfor %}
+                        </div>
+                        <div class="col">
+                            {{ "{:,}".format(r.Count) }}
+                        </div>
+                        <div class="col">
+                            {{ '%0.0f'| format(r.Percentage) }}%
+
+                        </div>
                     </div>
+                    {% endfor %}
                 </div>
             </div>
         </div>
-        <div class="col">
-            <div class="card">
-                <div class="card-body">
-                    <h5 class="card-title">Search by Color</h5>
-                    <p class="card-text">
-                        Is your mind made up on a particular color? Go straight to listings by exterior color.
-                    </p>
-                    <div class="card-body">
-                        {% for color, count in colors.items() %}
-                        <p>
-                            {% set color_url = color.replace(' ', '_') %}
+
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Popular Colors</h5>
+                <p class="card-text">
+                    Here are the most popular colors in the new vehicle inventory.
+                </p>
+                <div class="container">
+                    {% for _, r in colors.sort_values('Percentage', ascending=False).iterrows() %}
+                    {% set color_url = r.Color.replace(' ', '_') %}
+                    <div class="row">
+                        <div class="col-6">
                             <a class="card-link" href="{{ url_for('vehicles_by_color', color=color_url) }}">
-                                {{ color }} ({{ "{:,}".format(count) }})
+                                {{ r.Color }}
                             </a>
-                            {% endfor %}
-                        </p>
+                        </div>
+                        <div class="col">
+                            {{ "{:,}".format(r.Count) }}
+                        </div>
+                        <div class="col">
+                            {{ '%0.0f'| format(r.Percentage) }}%
+
+                        </div>
                     </div>
+                    {% endfor %}
                 </div>
             </div>
         </div>
-        <div class="col">
-            <div class="card">
-                <div class="card-body">
-                    <h5 class="card-title">Search by Status</h5>
-                    <p class="card-text">
-                        Want to see which vehicles are at a dealership or are on the way
-                        to a dealer? List vehicles by their status.
-                    </p>
-                    <div class="text-center">
-                        {% for status, count in statuses.items() %}
-                        {% set status_url = status.replace(' ', '_') %}
-                        <p>
+
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Delivery Status</h5>
+                <p class="card-text">
+                    See where most new vehices are in the delivery process.
+                </p>
+                <div class="container">
+                    {% for _, r in statuses.sort_values('Percentage', ascending=False).iterrows() %}
+                    {% set status_url = r['Shipping Status'].replace(' ', '_') %}
+                    <div class="row">
+                        <div class="col-6">
                             <a class="card-link" href="{{ url_for('vehicles_by_status', status=status_url) }}">
-                                {{ status }} ({{ "{:,}".format(count) }})
+                                {{ r['Shipping Status'] }}
                             </a>
-                        </p>
-                        {% endfor %}
+                        </div>
+                        <div class="col">
+                            {{ "{:,}".format(r.Count) }}
+                        </div>
+                        <div class="col">
+                            {{ '%0.0f'| format(r.Percentage) }}%
+
+                        </div>
                     </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Inventory per State</h5>
+                <p class="card-text">
+                    Which states have the most vehicles available? Here are the top 10.
+                </p>
+                <div class="container">
+                    {% for _, r in states.sort_values('Percentage', ascending=False).head(10).iterrows() %}
+                    <div class="row">
+                        <div class="col-6">
+                            <a class="card-link" href="{{ url_for('vehicles_by_state', state=r['Dealer State']) }}">
+                                {{ r['Dealer State'] }}
+                            </a>
+                        </div>
+                        <div class="col">
+                            {{ "{:,}".format(r.Count) }}
+                        </div>
+                        <div class="col">
+                            {{ '%0.0f'| format(r.Percentage) }}%
+                        </div>
+                    </div>
+                    {% endfor %}
                 </div>
             </div>
         </div>
