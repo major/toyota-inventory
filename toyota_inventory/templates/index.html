@@ -1,35 +1,48 @@
 {% extends 'base.html' %}
+
+{% block head %}
+<style type="text/css">
+    .jumbotron {
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-image: url('{{ url_for("static", filename="garin-chadwick-NImPMBE8m-U-unsplash.jpg") }}');
+        min-height: 300px;
+        height: 50vh;
+    }
+</style>
+{% endblock %}
+
 {% block content %}
+<div class="jumbotron"></div>
+
+<div class="container text-end">
+    <div class="row">
+        <div class="col">
+            <em>
+                Photo credit:
+                <a href="https://unsplash.com/photos/NImPMBE8m-U">Garin Chadwick</a>
+            </em>
+        </div>
+    </div>
+</div>
+
 <div class="container py-4">
     <div class="row">
-        <div class="col-4">
-            <figure class="figure">
-                <img src="{{ url_for('static', filename='garin-chadwick-NImPMBE8m-U-unsplash.jpg') }}"
-                    class="figure-img img-fluid rounded" alt="...">
-                <figcaption class="figure-caption">
-                    Photo credit:
-                    <a href="https://unsplash.com/photos/NImPMBE8m-U">
-                        Garin Chadwick
-                    </a>
-                </figcaption>
-            </figure>
-        </div>
-        <div class="col-8 text-middle">
+        <div class="text-middle">
             <h1 class="fw-medium">Welcome!</h1>
             <p class="lead">
                 After searching high and low for the 4Runner I wanted, I knew there had
-                to be a better way. This site offers a <span class="fw-bold">very
-                    unofficial</span>
+                to be a better way. This site offers a <span class="fw-bold">very unofficial</span>
                 method for tracking Toyota 4Runner inventory across the USA.
+
+                The site currently tracks
+                <span class="fw-bold">{{ "{:,}".format(total_vehicles) }}</span>
+                vehicles!
             </p>
             <p class="lead">
                 Automated scripts update the data once a day around
                 <a href="https://time.is/compare/0400AM_in_UTC">4AM UTC</a>.
-                The site currently tracks
-                <span class="fw-bold">
-                    {{ "{:,}".format(total_vehicles) }}
-                </span>
-                vehicles!
             </p>
             <p class="lead">
                 Found a bug? Have an idea for improvements?
