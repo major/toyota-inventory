@@ -214,6 +214,7 @@ def make_view(df):
             "isPreSold",
             "holdStatus",
             "year",
+            "drivetrain.code",
             "model.marketingName",
             "extColor.marketingName",
             "dealerMarketingName",
@@ -233,6 +234,7 @@ def make_view(df):
             "isPreSold": "Pre-Sold",
             "holdStatus": "Hold Status",
             "year": "Year",
+            "drivetrain.code": "Drivetrain",
         }
     )
 
@@ -264,6 +266,7 @@ def main():
             "VIN",
             "Model",
             "Year",
+            "Drivetrain",
             "Color",
             "Base MSRP",
             "Dealer Price",

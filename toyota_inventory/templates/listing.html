@@ -49,7 +49,7 @@
                 <img src="{{ url_for('static', filename='photos/' + r.Color.replace(' ', '_') + '.png') }}"
                     class="card-img-top" alt="4Runner in {{ r.Color }}" style="height: 10vw; object-fit: scale-down">
                 <div class="card-header">
-                    <h5 class="card-title">{{ r.Year }} {{ r.Model }}</h5>
+                    <h5 class="card-title">{{ r.Year }} {{ r.Model }} {{ r.Drivetrain }}</h5>
                     <h6 class="card-subtitle mb-2 text-body-secondary">
                         {{ r.Color }} &middot;
                         {{ "${:,.0f}".format(r["Dealer Price"]) }}
