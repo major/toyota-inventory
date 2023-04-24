@@ -900,21 +900,6 @@
     "Dealer Website":"https:\/\/www.cavendertoyota.com"
   },
   {
-    "VIN":"JTEBU5JR8L5779755",
-    "Model":"TRD Pro",
-    "Year":2020,
-    "Drivetrain":"4x4",
-    "Color":"Army Green",
-    "Base MSRP":49765,
-    "Dealer Price":49765.0,
-    "Shipping Status":"At dealer",
-    "Hold Status":null,
-    "Pre-Sold":"No",
-    "Dealer":"Ed Morse Delray Toyota",
-    "Dealer State":"FL",
-    "Dealer Website":"https:\/\/www.delraytoyota.com"
-  },
-  {
     "VIN":"JTEDU5JR0P5289096",
     "Model":"Limited",
     "Year":2023,
@@ -28153,21 +28138,6 @@
     "Dealer":"Norm Reeves Toyota San Diego",
     "Dealer State":"CA",
     "Dealer Website":"https:\/\/www.normreevestoyotasandiego.com"
-  },
-  {
-    "VIN":"JTELU5JR2P6091447",
-    "Model":"TRD Pro",
-    "Year":2023,
-    "Drivetrain":"4x4",
-    "Color":null,
-    "Base MSRP":54020,
-    "Dealer Price":54020.0,
-    "Shipping Status":"Factory to port",
-    "Hold Status":"Available",
-    "Pre-Sold":"No",
-    "Dealer":"Toyota of Fort Walton Beach",
-    "Dealer State":"FL",
-    "Dealer Website":"https:\/\/www.toyotafwb.com"
   },
   {
     "VIN":"JTELU5JR2P6124642",

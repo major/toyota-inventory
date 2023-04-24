@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 """Get 4Runner vehicles from Toyota's inventory."""
+import datetime
 import json
 import uuid
 
@@ -7,7 +8,7 @@ import pandas as pd
 import requests
 
 # Set this to True to query local data instead of Toyota's API.
-QUERY_LOCAL_DATA = False
+QUERY_LOCAL_DATA = True
 
 GRAPHQL_QUERY = """query {
   locateVehiclesByZip(
@@ -183,6 +184,17 @@ def cleanup_models(df):
     return df
 
 
+def remove_invalid_rows(df):
+    """Remove rows with invalid data."""
+    df = df[df["Color"].notna()]
+
+    # Remove any old models that might still be there.
+    last_year = datetime.date.today().year - 1
+    df.drop(df[df["Year"] < last_year].index, inplace=True)
+
+    return df
+
+
 def translate_status(df):
     """Translate the vehicle shipping status into useful values."""
     statuses = {
@@ -259,6 +271,9 @@ def main():
     # Translate values.
     df = translate_status(df)
     df = translate_presold(df)
+
+    # Remove any invalid rows.
+    df = remove_invalid_rows(df)
 
     # Get column ordering just right.
     df = df.reindex(
